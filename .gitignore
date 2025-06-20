@@ -1,0 +1,50 @@
+data/
+# Compiled source files
+*.class
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+venv/
+.env/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# macOS Finder files
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
