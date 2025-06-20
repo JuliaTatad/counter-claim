@@ -1,588 +1,588 @@
-case_id,title,industries,status
-1006,Pey Casado v. Chile (II),Publishing,Decided in favor of State
-1007,AS PNB Banka and others v. Latvia,"Energy - Electric Power, Renewable – wind, Financial Services, Banking institutions",Pending
-1009,Kappes v. Guatemala,"Mining, Metal ores",Pending
-1012,Orlandini v. Bolivia,"Mining, Metal ores",Decided in favor of State
-1013,Raiffeisen Bank v. Croatia (I),"Financial Services, Banking institutions",Discontinued
-1014,Venoklim v. Venezuela (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State
-1024,SCB (Hong Kong) v. Tanzania,"Construction, Civil infrastructure",Decided in favor of investor
-1027,RSM v. Saint Lucia,Mining,Decided in favor of State
-10303,Hasanov v. Georgia,Telecommunication,Pending
-10345,Patel Engineering v. Mozambique,"Construction, Civil infrastructure",Decided in favor of State
-105,9REN Holding v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-10596,Ahron Frenkel v. Croatia,"Real Estate, Sports, Construction, Specialized construction activities",Pending (Annulment)
-107,Adamakopoulos and others v. Cyprus,"Financial Services, Banking institutions",Pending
-108,Aeroport Belbek and Mr. Kolomoisky v. Russia,"Aviation, Air transport",Pending
-11,CMC v. Mozambique,"Construction, Civil infrastructure",Decided in favor of State
-11263,Koch Industries v. Canada,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-11354,Huawei v. Sweden,"Telecommunication, Wired communication activities",Pending
-11480,RWE v. Netherlands,"Construction, Specialized construction activities, Energy - Electric Power, Renewable – biomass",Discontinued
-11515,Optima v. USA (I),Real Estate,Pending
-116,B3 Croatian Courier v. Croatia,"Land Transportation, Logistics & Storage, Postal and courier activities",Decided in favor of neither Party
-117,BayWa v. Spain,"Energy - Electric Power, Renewable – wind",Decided in favor of investor
-11943,Riverside Coffee v. Nicaragua,Food & beverages,Pending
-11948,Amerra and others v. Mexico,"Farming & Agriculture, Real Estate, Financial Services, Banking institutions",Pending
-12043,Uniper v. Netherlands,"Energy - Electric Power, Fossil fuel",Discontinued
-12059,Amir Taheri v. UAE,"Trade, Retail Trade",Settled
-12133,Imeks Insaat Makina v. Turkmenistan,Construction,Pending
-12191,Finley Resources and others v. Mexico,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending
-122,Capital Financial Holdings v. Cameroon,"Financial Services, Other non-bank financial institutions",Decided in favor of State
-12206,Mainstream Renewable Power and others v. Germany,"Energy - Electric Power, Renewable – wind",Pending
-12249,Kaloti Metals v. Peru,"Trade, Wholesale Trade",Decided in favor of State
-12346,Glencore v. Colombia (III),"Mining, Coal and lignite",Pending
-125,Cortec Mining v. Kenya,Mining,Decided in favor of State
-12605,TC Energy and TransCanada Pipelines v. USA,"Construction, Specialized construction activities, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of State
-127,Cube Infrastructure v. Spain,"Energy - Electric Power, Renewable – hydro",Decided in favor of investor
-12721,AsiaPhos and Norwest v. China,Mining,Decided in favor of State
-13,De Sutter and others v. Madagascar (II),"Fashion, Textile",Decided in favor of investor
-132,Eskosol v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-13225,Discovery Global v. Slovakia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-13274,Energía y Renovación v. Guatemala,Energy - Electric Power,Pending (Rectification/Supplementary Decision/Interpretation)
-13399,Alberta Petroleum Marketing Commission v. USA,"Energy - Oil & Gas, Public Administration",Pending
-134,Gabriel Resources v. Romania (I),"Mining, Metal ores",Pending (Annulment)
-141,"Hydro, Becchetti and others v. Albania (I)","Audiovisual, Broadcast media, Energy - Electric Power, Renewable – hydro, Water, Sanitation & Waste, Water management and supply",Decided in favor of investor
-14120,Niko Resources v. Bapex,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending
-144,IMFA v. Indonesia,"Mining, Coal and lignite",Decided in favor of State
-145,JGC v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-148,Mathias Kruck and others v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Annulment)
-1487,Mason Capital v. Republic of Korea,"Financial Services, Financial assets management",Decided in favor of investor
-149,KS and TLS Invest v. Spain,"Energy - Electric Power, Renewable - general",Unknown
-1490,Legacy Vulcan v. Mexico,Mining,Pending
-1493,Christian and Antoine Doutremepuich v. Mauritius,"Health, Health activities",Decided in favor of State
-1494,Lee-Chin v. Dominican Republic,"Water, Sanitation & Waste, Waste management",Decided in favor of investor
-1497,Manolium Processing v. Belarus,"Construction, Construction of buildings",Decided in favor of investor
-150,Landesbank v. Spain,"Energy - Electric Power, Renewable – solar",Pending
-1519,Alverley v. Romania,"Construction, Construction of buildings",Decided in favor of State
-152,LMC v. Mexico,"Financial Services, Real Estate",Decided in favor of investor
-1520,The Carlyle Group and others v. Morocco,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Discontinued
-1523,MTS  v. Turkmenistan (II),Telecommunication,Decided in favor of State
-1524,Rasia v. Armenia,"Construction, Civil infrastructure",Decided in favor of State
-1525,Kuntur Wasi and Corporación América v. Peru,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor
-1529,Aris Mining v. Colombia,"Mining, Metal ores",Pending
-1531,Bay View v. Rwanda,"Mining, Metal ores",Decided in favor of State
-15316,WOC and others v. Spain,Energy - Electric Power,Pending
-1533,LSG Building Solutions and others v. Romania,"Energy - Electric Power, Renewable – solar",Pending (Annulment)
-1534,Ipek v. Turkey,"Financial Services, Financial assets management, Mining, Public Administration, Telecommunication",Decided in favor of State
-1539,Montauk Metals (formerly Galway Gold) v. Colombia,"Mining, Metal ores",Decided in favor of State
-1540,Red Eagle Exploration v. Colombia,"Mining, Metal ores",Decided in favor of State
-1541,Kimberly-Clark v. Venezuela (I),"Paper and forest products, Manufacturing of paper and paper products",Decided in favor of State
-1546,Rand Investments v. Serbia,Farming & Agriculture,Pending (Annulment)
-1550,Carrizosa v. Colombia,Financial Services,Decided in favor of State
-1551,Cascade Investments v. Turkey,Publishing,Decided in favor of State
-1553,Almasryia v. Kuwait,Real Estate,Decided in favor of neither Party
-156,Mobil Investments v. Canada (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled
-1560,Al Ramahi v. Hungary,"Real Estate, Tourism & Travel, Hotels and accommodation",Decided in favor of State
-1561,The Lopez-Goyne Family Trust and others v. Nicaragua,"Mining, Mining support service activities",Decided in favor of State
-1568,Addiko Bank v. Croatia,"Financial Services, Banking institutions",Pending
-1569,Edmond Khudyan v. Armenia,Real Estate,Decided in favor of neither Party
-1571,Addiko Bank v. Montenegro,"Financial Services, Banking institutions",Decided in favor of State
-1572,EcoDevelopment and EcoEnergy v. Tanzania,"Chemicals, Farming & Agriculture",Decided in favor of investor
-1573,Elitech v. Croatia,"Real Estate, Construction, Construction of buildings",Decided in favor of State
-1576,Gardabani and Silk Road v. Georgia,"Energy - Electric Power, Electric power transmission and distribution, Fossil fuel",Pending (Annulment)
-1579,Magyar Farming v. Hungary,Farming & Agriculture,Decided in favor of investor
-1581,Mabco v. Kosovo,Real Estate,Decided in favor of investor
-159,OperaFund and Schwab Holding v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-1598,Carnegie Minerals v. Gambia,Mining,Decided in favor of investor
-16,Hela Schwarz v. China,"Food & beverages, Food production",Pending
-1601,Larsen v. Hawaii,Public Administration,Decided in favor of State
-16014,Coropi Holdings and others v. Serbia,Real Estate,Pending
-1608,The Eurotunnel Arbitration,"Land Transportation, Logistics & Storage, Construction, Civil infrastructure",Decided in favor of investor
-16124,Honduras Próspera v. Honduras,"Construction, Construction of buildings, Civil infrastructure",Pending
-162,Privatbank and Finilon v. Russia,"Financial Services, Banking institutions",Pending
-1638,Westmoreland Mining v. Canada,"Mining, Coal and lignite",Decided in favor of State
-1639,Westwater Resources v. Türkiye,"Mining, Metal ores",Decided in favor of investor
-165,Rawat v. Mauritius,"Public Administration, Financial Services, Banking institutions",Decided in favor of State
-166,Resolute Forest Products v. Canada,"Paper and forest products, Manufacturing of paper and paper products",Decided in favor of State
-167,Webuild (formerly Salini Impregilo) v. Argentina,"Construction, Civil infrastructure",Decided in favor of investor
-169,SGRF v. Bulgaria,Financial Services,Decided in favor of State
-171,Silver Ridge v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-172,SolEs Badajoz v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-17294,Rotalin v. Moldova,Energy - Oil & Gas,Pending
-175,STEAG v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-17959,Bacilio Amorrortu v. Peru (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending
-18,Itisaluna Iraq and others v. Iraq,"Telecommunication, Wireless communication activities",Decided in favor of State
-180,Watkins Holdings v. Spain,"Energy - Electric Power, Renewable – wind",Decided in favor of investor
-181,WCV and Channel Crossings v. Czech Republic,Gambling,Decided in favor of State
-182,A11Y v. Czech Republic,"Health, Information Technology, Information service activities, Trade, Retail Trade",Decided in favor of State
-187,Anglo American v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream), Mining, Metal ores",Decided in favor of State
-18709,Windstream Energy v. Canada (II),"Energy - Electric Power, Renewable – wind",Pending
-188,Ansung Housing v. China,"Real Estate, Construction, Construction of buildings",Decided in favor of State
-18805,Benabderrahmane v. Qatar,Trade,Pending
-189,Aven and others v. Costa Rica,Real Estate,Decided in favor of State
-19,Kazmin v. Latvia,"Metal, Manufacturing of basic metals",Discontinued
-190,Ballantine v. Dominican Republic,Real Estate,Decided in favor of State
-192,Beijing Urban Construction v. Yemen,"Construction, Construction of buildings",Settled
-193,Besserglik v. Mozambique,"Farming & Agriculture, Forestry & Logging, Fishery, Aquaculture",Decided in favor of State
-194,Blusun v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-195,Casinos Austria v. Argentina,Gambling,Pending (Annulment)
-196,CEAC v. Montenegro,"Metal, Manufacturing of basic metals",Decided in favor of State
-198,Corona Materials v. Dominican Republic,Mining,Decided in favor of State
-199,Cyprus Popular Bank v. Greece,Financial Services,Unknown
-200,Bear Creek Mining v. Peru,"Mining, Metal ores",Decided in favor of investor
-202,EuroGas v. Slovakia,Mining,Decided in favor of State
-204,Flemingo DutyFree v. Poland,"Trade, Retail Trade",Decided in favor of investor
-21,Lidercón v. Peru,Automotive,Decided in favor of State
-211,Infinito Gold v. Costa Rica,"Mining, Metal ores",Decided in favor of neither Party
-212,InfraRed v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-214,Krederi v. Ukraine,"Real Estate, Construction, Construction of buildings",Decided in favor of State
-216,LDA v. India,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-219,Masdar Solar v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-22,Mera Investment v. Serbia,"Financial Services, Financial assets management, Other non-bank financial institutions",Decided in favor of investor
-227,RENERGY v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment)
-228,RWE Innogy v. Spain,"Energy - Electric Power, Renewable – hydro",Decided in favor of investor
-23,MetLife v. Argentina,Insurance and Pension,Decided in favor of investor
-230,Sodexo Pass v. Hungary,Office Administration,Decided in favor of investor
-231,Tallinn v. Estonia,"Water, Sanitation & Waste, Water management and supply",Decided in favor of State
-234,Unión Fenosa Gas v. Egypt,"Energy - Oil & Gas, Exploration, extraction and production (upstream), Mining, Mining support service activities",Decided in favor of investor
-23679,ABG v. Mexico,Farming & Agriculture,Pending
-238,WNC v. Czech Republic,Architecture,Decided in favor of State
-24,Rizzani de Eccher and others v. Kuwait,"Construction, Civil infrastructure",Pending (Annulment)
-240,Achmea v. Slovakia (II),Insurance and Pension,Decided in favor of State
-24233,Suffolk and others v. Portugal,"Financial Services, Banking institutions",Pending
-24235,Ershova and Jeršov v. Bulgaria,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Pending
-24278,Bank of Nova Scotia v.  Peru,"Financial Services, Banking institutions",Pending
-244,Alghanim v. Jordan,"Telecommunication, Wireless communication activities",Decided in favor of State
-245,Almås v. Poland,Farming & Agriculture,Decided in favor of State
-247,Infrastructure Services (Antin) v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-250,Spence International Investments et al. v. Costa Rica,Real Estate,Discontinued
-251,Kim and others v. Uzbekistan,Non-metallic mineral products manufacturing,Settled
-253,Caratube v. Kazakhstan (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-254,Cementos La Union v. Egypt,Non-metallic mineral products manufacturing,Decided in favor of State
-256,Cervin and Rhone v. Costa Rica,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of neither Party
-26,Pawlowski v. Czech Republic,"Construction, Construction of buildings",Decided in favor of neither Party
-26030,NICO v. Bahrain,Financial Services,Pending
-264,Eiser v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Resubmission)
-265,Eli Lilly v. Canada,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of State
-267,Europa Nova v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-26926,Andraous v. Netherlands,Insurance and Pension,Pending
-274,I.C.W. v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-27513,Silver Bull v. Mexico,"Mining, Metal ores",Pending
-276,JSW Solar v. Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-27695,Ruby River v. Canada,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Pending
-281,UP and CD Holding v. Hungary,Office Administration,Decided in favor of investor
-282,Lone Pine v. Canada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-2827,Carrizosa and others v. Colombia,Financial Services,Decided in favor of State
-283,Marfin v. Cyprus,Financial Services,Decided in favor of State
-2830,Scholz Holding GmbH v. Kingdom of Morocco,"Metal, Manufacturing of basic metals",Decided in favor of State
-2839,PACC v. Mexico,Maritime,Decided in favor of investor
-284,MOL v. Croatia (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-2847,Dirk Herzig v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of investor
-2854,Schönberger v. Tajikistan,Farming & Agriculture,Decided in favor of State
-286,Natland v. Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-28621,EMS Shipping & Trading v. Albania,"Maritime, Port management",Pending
-288,Photovoltaik Knopf Betriebs v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-289,Poštová banka and Istrokapital v. Greece,Financial Services,Decided in favor of State
-291,RREEF v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-294,South American Silver v. Bolivia,"Mining, Metal ores",Decided in favor of investor
-29554,Westmoreland Coal v. Canada (II),"Mining, Coal and lignite",Decided in favor of State
-29647,Zeph v. Australia (II),"Mining, Metal ores",Pending
-297,Transglobal v. Panama,"Energy - Electric Power, Renewable – hydro",Decided in favor of State
-301,Valores Mundiales and Consorcio Andino v. Venezuela,"Food & beverages, Food production",Decided in favor of investor
-303,Venezuela US v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-304,Voltaic Network v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State
-305,Windstream Energy v. Canada (I),"Energy - Electric Power, Renewable – wind",Decided in favor of investor
-308,Accession Mezzanine v. Hungary,"Audiovisual, Broadcast media",Decided in favor of State
-310,Ampal-American and others v. Egypt,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Discontinued
-31077,Zeph v. Australia (III),"Mining, Metal ores",Pending
-311,Apotex v. USA,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of State
-31230,First Majestic Silver v. Mexico (II),"Mining, Metal ores",Pending
-31273,Willars v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Pending
-313,Blue Bank v. Venezuela,"Tourism & Travel, Hotels and accommodation, Tourism",Decided in favor of State
-31546,BA Desarrollos v. Argentina,"Construction, Construction of buildings",Pending
-316,Churchill Mining and Planet Mining v. Indonesia,"Mining, Coal and lignite",Decided in favor of State
-317,Dan Cake v. Hungary,"Food & beverages, Food production",Decided in favor of investor
-318,CC/Devas v. India (I),"Telecommunication, Wireless communication activities",Decided in favor of investor
-3187,OEG v. Ukraine,Gambling,Decided in favor of investor
-319,Emmis v. Hungary,"Audiovisual, Broadcast media",Decided in favor of State
-3193,Canepa v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment)
-3194,Sastre and others v. Mexico,"Tourism & Travel, Hotels and accommodation",Decided in favor of State
-3195,Grace and others / Oro Negro v. Mexico,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-3197,ELA v. Estonia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-3198,Elliott v. Korea,Financial Services,Decided in favor of investor
-32,Sanum Investments v. Laos (II),"Gambling, Tourism & Travel, Hotels and accommodation",Pending
-320,Enkev Beheer v. Poland,"Fashion, Textile",Decided in favor of State
-3203,Enel Fortuna v. Panama,"Energy - Electric Power, Renewable – hydro",Settled
-321,Fabrica de Vidrios v. Venezuela (I),Non-metallic mineral products manufacturing,Decided in favor of State
-32119,ABH Holdings v. Ukraine,"Financial Services, Banking institutions",Pending
-3212,Seda v. Colombia,"Construction, Construction of buildings",Decided in favor of State
-3213,Tennant Energy v. Canada,"Energy - Electric Power, Renewable – wind",Decided in favor of State
-3215,Odyssey Marine Exploration v. Mexico,Mining,Decided in favor of investor
-32174,Sea Search-Armada v. Colombia,Maritime,Pending
-322,García Armas and García Gruber v. Venezuela,"Food & beverages, Food production",Decided in favor of investor
-32258,Fernando Andrade and Anabella de León de Paiz v. Honduras,"Energy - Electric Power, Renewable - general",Pending
-3226,Antonio del Valle Ruiz et al. v. Spain,"Financial Services, Banking institutions",Decided in favor of State
-323,Gavazzi v. Romania,"Metal, Manufacturing of basic metals",Decided in favor of investor
-324,Gavrilovic v. Croatia,"Food & beverages, Food production",Decided in favor of investor
-32551,Libra and others v. Azerbaijan,"Real Estate, Construction, Construction of buildings",Pending
-327,Grupo Francisco Hernando Contreras v. Equatorial Guinea,"Construction, Construction of buildings",Decided in favor of State
-32762,Klesch Group and Raffinerie Heide v. Germany,Energy - Oil & Gas,Pending
-328,Guardian Fiduciary v. Macedonia,"Financial Services, Financial assets management, Financial Services",Decided in favor of State
-3294,Garsu Pasaulis v. Kyrgyzstan,"Paper and forest products, Printing",Decided in favor of investor
-3297,Kornikom v. Serbia,"Mining, Coal and lignite",Decided in favor of State
-33081,Belaruskali v. Lithuania,"Chemicals, Land Transportation, Logistics & Storage, Land transport",Pending
-331,Lao Holdings v. Laos (I),"Gambling, Tourism & Travel, Hotels and accommodation",Decided in favor of State
-3320,Nissan v. India,"Automotive, Manufacturing of automotive",Settled
-3329,Manchester Securities v. Poland,Real Estate,Decided in favor of investor
-333,LSF-KEB v. Korea,"Financial Services, Other non-bank financial institutions, Real Estate, Construction, Civil infrastructure",Pending (Annulment)
-335,Mercer v. Canada,"Energy - Electric Power, Renewable – biomass",Decided in favor of State
-3358,IC Power v. Peru,"Energy - Electric Power, Electric power transmission and distribution",Pending (Annulment)
-336,MNSS and RCA v. Montenegro,"Metal, Manufacturing of basic metals",Decided in favor of neither Party
-3367,Sumrain and others v. Kuwait,"Construction, Construction of buildings",Discontinued
-337,Muhammet Çap & Sehil v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of State
-3373,Glencore v. Colombia (II),"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor
-340,Orascom v. Algeria,"Telecommunication, Wireless communication activities",Decided in favor of State
-342,Ping An v. Belgium,"Financial Services, Financial assets management, Other non-bank financial institutions, Financial Services",Decided in favor of State
-345,Rusoro Mining v. Venezuela,"Mining, Metal ores",Decided in favor of investor
-3452,Orazul v. Argentina,"Energy - Electric Power, Renewable – hydro",Decided in favor of State
-346,Saint-Gobain v. Venezuela,Mining,Decided in favor of investor
-3462,Latam Hydro v. Peru,"Energy - Electric Power, Renewable – hydro",Decided in favor of State
-3472,Nord Stream 2 v. EU,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Pending
-348,Sanum Investments v. Laos (I),"Gambling, Tourism & Travel, Hotels and accommodation",Decided in favor of State
-351,Supervision v. Costa Rica,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of State
-354,Tenaris and Talta v. Venezuela (II),"Metal, Manufacturing of basic metals",Decided in favor of investor
-357,Tethyan Copper v. Pakistan,"Mining, Metal ores",Decided in favor of investor
-358,Transban v. Venezuela,Automotive,Decided in favor of State
-359,UAB v. Latvia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-36,A.M.F. Aircraftleasing v. Czech Republic,Aviation,Decided in favor of State
-360,Valle Verde v. Venezuela,"Financial Services, Other non-bank financial institutions",Discontinued
-36053,Stratius v. Hungary,Energy - Electric Power,Pending
-361,Vattenfall v. Germany (II),"Energy - Electric Power, Nuclear",Settled
-362,Veolia v. Egypt,"Water, Sanitation & Waste, Waste management",Decided in favor of State
-366,Al Tamimi v. Oman,Mining,Decided in favor of State
-369,Arif v. Moldova,"Trade, Retail Trade",Decided in favor of investor
-373,Belokon v. Kyrgyzstan,Financial Services,Decided in favor of investor
-374,Burimi and Eagle Games v. Albania,Gambling,Decided in favor of State
-375,Copper Mesa v. Ecuador,"Mining, Metal ores",Decided in favor of investor
-376,Crystallex v. Venezuela,"Mining, Metal ores",Decided in favor of investor
-377,Detroit International v. Canada,"Construction, Civil infrastructure",Decided in favor of State
-380,Fraport v. Philippines (II),"Aviation, Air transport",Decided in favor of State
-381,Gambrinus v. Venezuela,Chemicals,Decided in favor of State
-383,Garanti Koza v. Turkmenistan,"Construction, Civil infrastructure",Decided in favor of investor
-386,Khan Resources v. Mongolia,"Mining, Metal ores",Decided in favor of investor
-387,Koch Minerals v. Venezuela,Chemicals,Decided in favor of investor
-388,Renée Rose Levy and Gremcitel v. Peru,Real Estate,Decided in favor of State
-389,Longreef v. Venezuela,"Food & beverages, Food production",Decided in favor of investor
-391,Mamidoil v. Albania,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-392,Merck v. Ecuador,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of investor
-393,Mesa Power v. Canada,"Energy - Electric Power, Renewable – wind",Decided in favor of State
-395,Murphy v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-396,National Gas v. Egypt,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of State
-397,Nova Scotia Power v. Venezuela (II),"Mining, Coal and lignite",Decided in favor of State
-398,OIEG v. Venezuela,Non-metallic mineral products manufacturing,Decided in favor of investor
-4,Bank Melli and Bank Saderat v. Bahrain,"Financial Services, Banking institutions",Decided in favor of investor
-400,Philip Morris v. Australia,Tobacco,Decided in favor of State
-401,Rafat v. Indonesia,Financial Services,Decided in favor of State
-402,Renco v. Peru (I),"Mining, Metal ores",Decided in favor of State
-403,Ryan and others v. Poland,"Food & beverages, Food production",Decided in favor of State
-406,St. Marys v. Canada,Mining,Settled
-407,Tenaris and Talta v. Venezuela (I),"Metal, Manufacturing of basic metals",Decided in favor of investor
-408,AES Solar and others (PV Investors) v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-4083,Espíritu Santo and L1bre v. Mexico,Telecommunication,Pending
-4091,VM Solar Jerez v. Spain,"Energy - Electric Power, Renewable – solar",Pending
-410,Tulip Real Estate v. Turkey,Real Estate,Decided in favor of State
-411,Vigotop v. Hungary,Real Estate,Decided in favor of State
-415,AbitibiBowater v. Canada,"Energy - Electric Power, Renewable – hydro, Paper and forest products, Manufacturing of paper and paper products",Settled
-416,AES v. Kazakhstan,"Energy - Electric Power, Fossil fuel, Trade, Wholesale Trade",Decided in favor of neither Party
-417,Allard v. Barbados,Real Estate,Decided in favor of State
-4188,Gerald International v. Sierra Leone,"Mining, Metal ores",Settled
-419,Awdi v. Romania,"Publishing, Real Estate",Decided in favor of investor
-421,Border Timbers v. Zimbabwe,Forestry & Logging,Decided in favor of investor
-422,Bosca v. Lithuania,"Food & beverages, Beverages’ production",Decided in favor of neither Party
-424,British Caribbean Bank v. Belize,Telecommunication,Decided in favor of investor
-426,Renée Rose Levy v. Peru,Financial Services,Decided in favor of State
-427,Dede v. Romania,"Machinery and equipment, Manufacturing of machinery and equipment",Decided in favor of State
-428,Dunkeld v. Belize (II),"Telecommunication, Wired communication activities",Settled
-43,B-Mex and others v. Mexico,"Gambling, Real Estate",Decided in favor of investor
-432,Guaracachi and Rurelec v. Bolivia,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor
-433,İçkale v. Turkmenistan,"Construction, Civil infrastructure",Decided in favor of State
-434,Kiliç v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of State
-436,Metal-Tech v. Uzbekistan,"Metal, Manufacturing of basic metals",Decided in favor of State
-437,Minnotte and Lewis v. Poland,"Health, Health activities",Decided in favor of State
-440,Philip Morris v. Uruguay,Tobacco,Decided in favor of State
-442,RSM and others v. Grenada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-443,SCB v. Tanzania,Energy - Electric Power,Decided in favor of State
-444,ST-AD v. Bulgaria,Real Estate,Decided in favor of State
-445,TECO v. Guatemala,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor
-4456,Amec Foster Wheeler v. Colombia (I),Energy - Oil & Gas,Pending (Annulment)
-446,Tidewater v. Venezuela,"Mining, Mining support service activities",Decided in favor of investor
-447,Universal Compression v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled
-4473,Winshear Gold v. Tanzania,"Mining, Metal ores",Settled
-448,von Pezold and others v. Zimbabwe,Farming & Agriculture,Decided in favor of investor
-455,Centurion v. Canada,"Health, Health activities",Discontinued
-457,Chevron and TexPet v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending
-458,Commerce Group v. El Salvador,"Mining, Metal ores",Decided in favor of State
-459,Deutsche Bank v. Sri Lanka,Financial Services,Decided in favor of investor
-460,Dogan v. Turkmenistan,Farming & Agriculture,Decided in favor of investor
-462,Dunkeld v. Belize (I),"Telecommunication, Wired communication activities",Settled
-464,ECE v. Czech Republic,Real Estate,Decided in favor of State
-467,EURAM Bank v. Slovakia,Insurance and Pension,Decided in favor of State
-468,EVN v. Macedonia,"Energy - Electric Power, Electric power transmission and distribution",Settled
-47,Joshua Dean Nelson v. Mexico,Telecommunication,Decided in favor of State
-470,Global Trading v. Ukraine,Farming & Agriculture,Decided in favor of State
-472,Gold Reserve v. Venezuela (I),"Mining, Metal ores",Decided in favor of investor
-473,H&H v. Egypt,"Tourism & Travel, Hotels and accommodation",Decided in favor of State
-475,Iberdrola v. Guatemala (I),"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State
-477,ICS v. Argentina (I),"Maritime, Shipping",Decided in favor of State
-479,KT Asia v. Kazakhstan,Financial Services,Decided in favor of State
-48,Bridgestone v. Panama,Rubber & Plastics,Decided in favor of State
-482,Pac Rim v. El Salvador,"Mining, Metal ores",Decided in favor of State
-483,Reinhard Unglaube v. Costa Rica,Real Estate,Decided in favor of State
-484,Servier v. Poland,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of investor
-485,Swisslion v. Macedonia,"Food & beverages, Food production",Decided in favor of investor
-486,Teinver v. Argentina,"Aviation, Air transport",Decided in favor of investor
-488,Ulysseas v. Ecuador,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-49,Burmilla Trust and others v. Lesotho,Mining,Discontinued
-490,Vattenfall v. Germany (I),"Energy - Electric Power, Fossil fuel",Settled
-492,Achmea v. Slovakia (I),Insurance and Pension,Decided in favor of investor
-4922,Renco v. Peru (II),"Mining, Metal ores",Pending
-494,Alapli v. Turkey,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-497,Ambiente Ufficio and others v. Argentina,Financial Services,Discontinued
-499,ATA Construction v. Jordan,"Construction, Civil infrastructure",Decided in favor of investor
-501,Bosh v. Ukraine,"Construction, Construction of buildings",Decided in favor of State
-502,Burlington v. Ecuador,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-503,Caratube v. Kazakhstan (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-504,CEMEX v. Venezuela,Non-metallic mineral products manufacturing,Settled
-5044,Adria Group v. Croatia,"Trade, Retail Trade",Pending
-505,Clayton/Bilcon v. Canada,Mining,Pending
-507,GEA v. Ukraine,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State
-508,HICEE v. Slovakia,Insurance and Pension,Decided in favor of State
-5081,Vercara v. Colombia,Information Technology,Decided in favor of State
-5096,Pildegovics v. Norway,"Fishery, Food & beverages, Food production, Food and beverage service activities",Pending (Annulment)
-510,Inmaris Perestroika v. Ukraine,"Maritime, Shipping",Decided in favor of investor
-512,InterTrade v. Czech Republic,Forestry & Logging,Decided in favor of State
-513,Itera v. Georgia (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Settled
-516,Malicorp v. Egypt,"Aviation, Air transport, Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-517,Marion Unglaube v. Costa Rica,Real Estate,Decided in favor of investor
-519,Millicom v. Senegal,"Telecommunication, Wireless communication activities",Settled
-520,Murphy v. Ecuador (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-522,Nova Scotia Power v. Venezuela (I),"Mining, Coal and lignite",Decided in favor of State
-525,Perenco v. Ecuador,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-528,Tatneft v. Ukraine,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-53,VC Holding II v. Italy,Energy - Electric Power,Pending
-531,Abaclat and others v. Argentina,Financial Services,Settled
-533,AES v. Hungary (II),"Energy - Electric Power, Fossil fuel",Decided in favor of State
-535,Alemanni and others v. Argentina,Financial Services,Discontinued
-536,Alpha Projektholding v. Ukraine,"Construction, Construction of buildings, Tourism & Travel, Hotels and accommodation",Decided in favor of investor
-537,Anderson v. Costa Rica,"Financial Services, Financial assets management, Financial Services",Decided in favor of State
-538,Bureau Veritas v. Paraguay,"Maritime, Shipping",Settled
-54,Sevilla Beheer and others v. Spain,"Energy - Electric Power, Renewable – solar",Unknown
-540,ConocoPhillips v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-541,Electrabel v. Hungary,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-544,Europe Cement v. Turkey,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State
-545,Foresti v. South Africa,Mining,Discontinued
-546,Frontier v. Czech Republic,"Aviation, Manufacturing of aircrafts and other aviation equipment",Decided in favor of State
-547,Fuchs v. Georgia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-548,Gallo v. Canada,"Water, Sanitation & Waste, Waste management",Decided in favor of State
-550,Hamester v. Ghana,"Food & beverages, Food production",Decided in favor of State
-551,HOCHTIEF v. Argentina,"Construction, Civil infrastructure",Discontinued
-552,Impregilo v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor
-556,Liman Caspian Oil and NCL Dutch Investment v. Kazakhstan,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-557,Mobil and others v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-558,Mobil Investments v. Canada (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-559,Pantechniki v. Albania,"Construction, Civil infrastructure",Decided in favor of State
-562,RDC v. Guatemala,"Construction, Civil infrastructure",Decided in favor of investor
-564,Saba Fakes v. Turkey,"Telecommunication, Wireless communication activities",Decided in favor of State
-565,SGS v. Paraguay,"Maritime, Shipping",Decided in favor of investor
-568,TCW v. Dominican Republic,"Energy - Electric Power, Electric power transmission and distribution",Settled
-569,Toto v. Lebanon,"Construction, Civil infrastructure",Decided in favor of State
-570,Trans-Global v. Jordan,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled
-572,Tza Yap Shum v. Peru,"Food & beverages, Food production",Decided in favor of investor
-573,Urbaser v. Argentina,"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of neither Party
-574,Azpetrol v. Azerbaijan,"Energy - Oil & Gas, Processing, storage and transportation (midstream), Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Settled
-576,Cementownia v. Turkey (I),"Energy - Electric Power, Renewable – hydro",Decided in favor of State
-578,Chevron and TexPet v. Ecuador (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-58,Dominion Minerals v. Panama,"Mining, Metal ores",Decided in favor of investor
-580,Lemire v. Ukraine (II),"Audiovisual, Broadcast media",Decided in favor of investor
-581,Libananco v. Turkey,"Energy - Electric Power, Renewable – hydro",Decided in favor of State
-583,Merrill & Ring v. Canada,Forestry & Logging,Decided in favor of State
-584,Nations Energy v. Panama,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-586,Occidental v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-589,Phoenix Action v. Czech Republic,"Trade, Wholesale Trade",Decided in favor of State
-590,Quiborax v. Bolivia,"Mining, Non-metallic mineral products manufacturing",Decided in favor of investor
-592,Romak v. Uzbekistan,Farming & Agriculture,Decided in favor of State
-593,Rompetrol v. Romania,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of neither Party
-594,Roussalis v. Romania,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation, Tourism & Travel, Hotels and accommodation",Decided in favor of State
-597,Sistem v. Kyrgyzstan,"Construction, Construction of buildings, Tourism & Travel, Hotels and accommodation",Decided in favor of investor
-599,Vestey v. Venezuela,Farming & Agriculture,Decided in favor of investor
-60,Eco Oro v. Colombia,"Mining, Metal ores",Decided in favor of neither Party
-603,Ares and MetalGeo v. Georgia,"Metal, Manufacturing of basic metals",Decided in favor of investor
-605,Bayview v. Mexico,Farming & Agriculture,Decided in favor of State
-606,Funnekotter v. Zimbabwe,Farming & Agriculture,Decided in favor of investor
-608,Biwater v. Tanzania,"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of neither Party
-611,Cargill v. Mexico,"Food & beverages, Food production",Decided in favor of investor
-613,Daimler v. Argentina,"Automotive, Financial Services",Decided in favor of State
-614,Desert Line v. Yemen,"Construction, Civil infrastructure",Decided in favor of investor
-615,EDF v. Romania,"Trade, Retail Trade",Decided in favor of State
-616,EMELEC v. Ecuador,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State
-618,Helnan v. Egypt,"Tourism & Travel, Hotels and accommodation",Decided in favor of State
-619,HEP v. Slovenia,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor
-620,Hulley Enterprises v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-623,Kardassopoulos v. Georgia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-625,MHS v. Malaysia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-626,Micula v. Romania (I),"Food & beverages, Food production",Decided in favor of investor
-628,Mytilineos v. Serbia (I),"Mining, Metal ores",Decided in favor of State
-629,Noble Energy v. Ecuador,"Energy - Electric Power, Fossil fuel",Settled
-63,ESPF and others v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of investor
-630,Parkerings v. Lithuania,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-633,Rumeli v. Kazakhstan,"Telecommunication, Wireless communication activities",Decided in favor of investor
-634,Saipem v. Bangladesh,"Construction, Civil infrastructure, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-636,Siag v. Egypt,Real Estate,Decided in favor of investor
-637,TSA Spectrum v. Argentina,"Telecommunication, Wireless communication activities",Decided in favor of State
-638,Veteran Petroleum v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-640,Yukos Universal v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-643,ADM v. Mexico,"Food & beverages, Food production",Decided in favor of investor
-6481,Freeport-McMoRan v. Peru,Mining,Pending (Annulment)
-649,BP v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled
-65,Eurus Energy v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment)
-650,Cargill v. Poland,"Food & beverages, Food production",Decided in favor of investor
-6528,Fischer v. Czech Republic (I),"Tourism & Travel, Tourism",Decided in favor of State
-654,Corn Products v. Mexico,"Food & beverages, Food production",Decided in favor of investor
-657,Duke Energy v. Ecuador,"Energy - Electric Power, Fossil fuel",Decided in favor of investor
-661,Gemplus v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of investor
-6628,South32 v. Colombia (I),Mining,Pending (Annulment)
-664,Jan de Nul v. Egypt,"Construction, Civil infrastructure",Decided in favor of State
-668,OKO v. Estonia,Financial Services,Decided in favor of investor
-67,Eyre and Montrose Developments v. Sri Lanka,"Real Estate, Construction, Construction of buildings",Pending (Annulment)
-672,Talsud v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of investor
-673,Telenor v. Hungary,"Telecommunication, Wireless communication activities",Decided in favor of State
-676,Total S.A. v. Argentina,"Energy - Electric Power, Renewable – hydro, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-679,Vannessa Ventures v. Venezuela,"Mining, Metal ores",Decided in favor of State
-6805,Einarsson and GSI v. Canada,"Information Technology, Technology, Information service activities",Pending
-682,Wintershall v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-683,ADC v. Hungary,"Aviation, Air transport, Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor
-687,Bayındır v. Pakistan (I),"Construction, Civil infrastructure",Decided in favor of State
-690,Camuzzi v. Argentina (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Settled
-693,Continental Casualty v. Argentina,Insurance and Pension,Decided in favor of investor
-695,EDF and others v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor
-696,El Paso v. Argentina,"Energy - Electric Power, Fossil fuel, Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-70,Glencore Finance v. Bolivia,"Metal, Manufacturing of basic metals, Mining, Metal ores",Decided in favor of investor
-700,Fraport v. Philippines (I),"Aviation, Air transport",Decided in favor of State
-701,Gas Natural v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Settled
-703,Impregilo v. Pakistan (II),"Energy - Electric Power, Renewable – hydro",Settled
-704,Inceysa v. El Salvador,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of State
-705,Industria Nacional de Alimentos v. Peru,"Food & beverages, Food production",Decided in favor of State
-706,Joy Mining v. Egypt,Mining,Decided in favor of State
-707,L.E.S.I. - DIPENTA v. Algeria,"Construction, Civil infrastructure",Decided in favor of State
-708,MCI v. Ecuador,Energy - Electric Power,Decided in favor of State
-709,Metalpar v. Argentina,"Automotive, Manufacturing of automotive",Decided in favor of State
-71,Glencore v. Colombia (I),"Mining, Coal and lignite",Decided in favor of investor
-710,Miminco v. Congo,"Mining, Metal ores",Settled
-712,Pan American v. Argentina,"Energy - Electric Power, Fossil fuel, Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled
-715,Plama v. Bulgaria,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State
-716,Suez v. Argentina,"Water, Sanitation & Waste, Water management and supply",Decided in favor of investor
-717,Telefónica v. Argentina,"Telecommunication, Wired communication activities",Settled
-72,Global Telecom Holding v. Canada,"Telecommunication, Wireless communication activities",Decided in favor of State
-720,Vivendi v. Argentina (II),"Water, Sanitation & Waste, Water management and supply",Decided in favor of investor
-721,AES v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor
-722,Aguas del Tunari v. Bolivia,"Water, Sanitation & Waste, Water management and supply, Sewerage",Settled
-723,Ahmonseto v. Egypt,"Fashion, Textile",Decided in favor of State
-725,Champion Trading v. Egypt,Farming & Agriculture,Decided in favor of State
-726,Chemtura v. Canada,Chemicals,Decided in favor of State
-727,Fireman's Fund v. Mexico,Financial Services,Decided in favor of State
-731,IBM v. Ecuador,"Information Technology, Information service activities",Settled
-735,LG&E v. Argentina,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of investor
-738,PSEG v. Turkey,"Energy - Electric Power, Fossil fuel",Decided in favor of investor
-739,Salini v. Jordan,"Construction, Civil infrastructure",Decided in favor of State
-740,Sempra v. Argentina,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of investor
-741,SGS v. Philippines,Trade,Settled
-742,Siemens v. Argentina,Public Administration,Decided in favor of investor
-743,Soufraki v. UAE,"Construction, Civil infrastructure",Decided in favor of State
-745,Tokios Tokelés v. Ukraine,Publishing,Decided in favor of State
-748,AIG v. Kazakhstan,Real Estate,Decided in favor of investor
-749,Azurix v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor
-752,CMS v. Argentina,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-753,Enron v. Argentina,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor
-754,F-W Oil v. Trinidad & Tobago,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-757,MTD v. Chile,Real Estate,Decided in favor of investor
-758,Noble Ventures v. Romania,"Financial Services, Management Consulting",Decided in favor of State
-76,Gosling and others v. Mauritius,Real Estate,Decided in favor of State
-760,Saluka v. Czech Republic,Financial Services,Settled
-761,SGS v. Pakistan,Trade,Settled
-762,ADF v. USA,"Construction, Civil infrastructure",Decided in favor of State
-765,Generation Ukraine v. Ukraine,"Construction, Construction of buildings",Decided in favor of State
-766,Mihaly v. Sri Lanka,Energy - Electric Power,Decided in favor of State
-768,Salini v. Morocco,"Construction, Civil infrastructure",Settled
-77,Gramercy v. Peru,"Financial Services, Financial assets management, Other non-bank financial institutions, Financial Services",Decided in favor of investor
-770,Tecmed v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of investor
-773,Waste Management v. Mexico (II),"Water, Sanitation & Waste, Waste management",Decided in favor of State
-774,Yaung Chi v. Myanmar,"Food & beverages, Beverages’ production",Decided in favor of State
-777,Feldman v. Mexico,"Trade, Wholesale Trade",Decided in favor of investor
-778,Genin v. Estonia,"Financial Services, Real Estate",Decided in favor of State
-779,Gruslin v. Malaysia (II),"Financial Services, Financial assets management, Financial Services",Decided in favor of State
-783,Middle East Cement v. Egypt,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor
-784,Mitchell v. DR Congo,Legal Services,Decided in favor of investor
-785,Mondev v. USA,Real Estate,Decided in favor of State
-790,Lemire v. Ukraine (I),"Audiovisual, Broadcast media",Settled
-791,Loewen v. USA,Insurance and Pension,Decided in favor of State
-793,Olguín v. Paraguay,"Food & beverages, Food production",Decided in favor of State
-794,Pey Casado v. Chile (I),Publishing,Decided in favor of State
-796,Waste Management v. Mexico (I),"Publishing, Water, Sanitation & Waste, Waste management",Decided in favor of State
-797,Wena Hotels v. Egypt,Real Estate,Decided in favor of investor
-798,Azinian v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of State
-799,CSOB. v. Slovak Republic,Financial Services,Decided in favor of investor
-80,Infracapital v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Annulment)
-801,Lanco v. Argentina,"Construction, Specialized construction activities",Settled
-802,Maffezini v. Spain,Chemicals,Decided in favor of investor
-803,Metalclad v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of investor
-804,Vivendi v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor
-807,FEDAX v. Venezuela,Financial Services,Decided in favor of investor
-81,Italba v. Uruguay (I),"Telecommunication, Wireless communication activities",Decided in favor of State
-815,AMT v. Zaire,"Machinery and equipment, Electrical Equipment Manufacturing",Settled
-816,AAPL v. Sri Lanka,"Fishery, Fishing",Decided in favor of investor
-820,Santa Elena v. Costa Rica,Real Estate,Decided in favor of investor
-821,World Duty Free v. Kenya,"Real Estate, Trade, Retail Trade",Decided in favor of State
-822,Tradex Hellas v. Albania,Farming & Agriculture,Decided in favor of State
-823,SPP v. Egypt,Real Estate,Decided in favor of investor
-824,Repsol v. Petroecuador,Mining,Decided in favor of investor
-825,MINE v. Guinea (II),Mining,Settled
-826,CDC v. Seychelles,Energy - Electric Power,Decided in favor of investor
-827,Banro Resources v. DR Congo,Mining,Decided in favor of State
-828,Amco v. Indonesia,Real Estate,Decided in favor of investor
-832,Brandes Investment v. Venezuela,Telecommunication,Decided in favor of State
-833,International Quantum Resources and others v. DR Congo,"Mining, Metal ores",Discontinued
-834,OPIC Karimum v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-835,Getma v. Guinea (II),"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor
-839,PNG Sustainable Development v. Papua New Guinea,"Mining, Metal ores",Decided in favor of State
-843,Interocean Oil v. Nigeria,Mining,Decided in favor of State
-847,ACP Axos Capital v. Kosovo,Telecommunication,Decided in favor of State
-848,BSG Resources v. Guinea (I),Mining,Decided in favor of State
-849,Société Resort Company Invest Abidjan v. Côte d'Ivoire,"Tourism & Travel, Hotels and accommodation",Unknown
-85,Lao Holdings v. Laos (II),"Gambling, Tourism & Travel, Hotels and accommodation",Pending
-850,Zhinvali Development Ltd. v. Republic of Georgia,"Construction, Civil infrastructure, Energy - Electric Power, Renewable – hydro",Decided in favor of State
-851,Lighthouse v. Timor-Leste,"Construction, Construction of buildings, Energy - Electric Power, Fossil fuel",Decided in favor of State
-861,Vacuum Salt v. Ghana,Mining,Decided in favor of State
-876,Klöckner v. Cameroon,"Construction, Construction of buildings, Specialized construction activities",Decided in favor of investor
-878,Duke Energy v. Peru,"Energy - Electric Power, Renewable - general, Renewable – hydro",Decided in favor of investor
-88,Nova Group v. Romania,Insurance and Pension,Decided in favor of State
-882,City Oriente v. Ecuador and Petroecuador (I),Mining,Settled
-883,Cambodia Power Company v. Cambodia and Electricité du Cambodge,"Energy - Electric Power, Fossil fuel",Decided in favor of State
-884,"Cable Television of Nevis, Ltd. and Cable Television of Nevis Holdings, Ltd. v. Federation of St. Kitts and Nevis",Telecommunication,Discontinued
-889,LETCO v. Liberia,Forestry & Logging,Decided in favor of investor
-896,Government of the Province of East Kalimantan v. PT Kaltim Prima Coal and others,Financial Services,Decided in favor of investor
-897,Niko Resources v. Petrobangla and Bapex,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-898,Active Partners Group v. South Sudan,"Construction, Energy - Electric Power",Decided in favor of investor
-902,TANESCO v. IPTL,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of neither Party
-903,Standard Chartered Bank (Hong Kong) v. Tanzania Electric Supply,"Energy - Electric Power, Fossil fuel",Decided in favor of investor
-91,Omega Engineering v. Panama (I),"Construction, Construction of buildings",Decided in favor of State
-9102,BRIF TRES v. Serbia,Construction,Decided in favor of State
-917,Balkan Energy v. Ghana,"Energy - Electric Power, Fossil fuel",Decided in favor of investor
-919,RSM Production v. Grenada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-9198,First Majestic Silver v. Mexico (I),"Mining, Metal ores",Pending
-927,Chevron v. Bangladesh (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-928,"Aguaytia Energy, LLC v. Republic of Peru","Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State
-9296,Durres Kurum Shipping v. Albania,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State
-9347,Campos de Pesé v. Panama,Energy - Electric Power,Decided in favor of State
-935,"Scimitar Exploration Limited v. Bangladesh and Bangladesh Oil, Gas and Mineral Corporation",Mining,Decided in favor of State
-939,Aucoven v. Venezuela,"Construction, Financial Services",Decided in favor of investor
-9408,Bacilio Amorrortu v. Peru (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State
-941,Société d'Exploitation des Mines d'Or de Sadiola S.A. v. Republic of Mali,Mining,Unknown
-9471,Fengzhen Min v. South Korea,Real Estate,Pending (Annulment)
-9473,Meijer v. Georgia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Pending
-95,Safa v. Greece,"Financial Services, Maritime, Manufacturing of ships, boats and other shipping equipment",Decided in favor of neither Party
-9551,Fund for Protection of Investors' Rights v. Lithuania,"Financial Services, Banking institutions",Decided in favor of State
-958,AHS Niger and Menzies v. Niger,"Aviation, Airport management",Decided in favor of investor
-974,Mobil v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor
-9862,Encavis and others v. Italy,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State
-9863,Qatar National Bank v. South Sudan,"Financial Services, Banking institutions",Decided in favor of investor
-9868,Eni and others v. Nigeria,Mining,Pending
-993,Anglo-Adriatic Group v. Albania,"Maritime, Shipping",Decided in favor of State
+case_id,title,industries,status,nationalities
+1006,Pey Casado v. Chile (II),Publishing,Decided in favor of State,"Chile, Spain"
+1007,AS PNB Banka and others v. Latvia,"Energy - Electric Power, Renewable – wind, Financial Services, Banking institutions",Pending,"Latvia, United Kingdom"
+1009,Kappes v. Guatemala,"Mining, Metal ores",Pending,"Guatemala, United States"
+1012,Orlandini v. Bolivia,"Mining, Metal ores",Decided in favor of State,"Bolivia, United States"
+1013,Raiffeisen Bank v. Croatia (I),"Financial Services, Banking institutions",Discontinued,"Croatia, Austria"
+1014,Venoklim v. Venezuela (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State,"Netherlands, Venezuela"
+1024,SCB (Hong Kong) v. Tanzania,"Construction, Civil infrastructure",Decided in favor of investor,"China, Tanzania"
+1027,RSM v. Saint Lucia,Mining,Decided in favor of State,"St. Lucia, United States"
+10303,Hasanov v. Georgia,Telecommunication,Pending,"Azerbaijan, Georgia"
+10345,Patel Engineering v. Mozambique,"Construction, Civil infrastructure",Decided in favor of State,"India, Mozambique"
+105,9REN Holding v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Luxembourg, Spain"
+10596,Ahron Frenkel v. Croatia,"Real Estate, Sports, Construction, Specialized construction activities",Pending (Annulment),"Israel, Croatia"
+107,Adamakopoulos and others v. Cyprus,"Financial Services, Banking institutions",Pending,"Greece, Luxembourg, Cyprus"
+108,Aeroport Belbek and Mr. Kolomoisky v. Russia,"Aviation, Air transport",Pending,"Ukraine, Russia"
+11,CMC v. Mozambique,"Construction, Civil infrastructure",Decided in favor of State,"Italy, Mozambique"
+11263,Koch Industries v. Canada,"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Canada, United States"
+11354,Huawei v. Sweden,"Telecommunication, Wired communication activities",Pending,"China, Sweden"
+11480,RWE v. Netherlands,"Construction, Specialized construction activities, Energy - Electric Power, Renewable – biomass",Discontinued,"Germany, Netherlands"
+11515,Optima v. USA (I),Real Estate,Pending,"Ukraine, United States"
+116,B3 Croatian Courier v. Croatia,"Land Transportation, Logistics & Storage, Postal and courier activities",Decided in favor of neither Party,"Croatia, Netherlands"
+117,BayWa v. Spain,"Energy - Electric Power, Renewable – wind",Decided in favor of investor,"Germany, Spain"
+11943,Riverside Coffee v. Nicaragua,Food & beverages,Pending,"Nicaragua, United States"
+11948,Amerra and others v. Mexico,"Farming & Agriculture, Real Estate, Financial Services, Banking institutions",Pending,"Mexico, United States"
+12043,Uniper v. Netherlands,"Energy - Electric Power, Fossil fuel",Discontinued,"Germany, Netherlands"
+12059,Amir Taheri v. UAE,"Trade, Retail Trade",Settled,"Sweden, United Arab Emirates"
+12133,Imeks Insaat Makina v. Turkmenistan,Construction,Pending,"Turkmenistan, Türkiye"
+12191,Finley Resources and others v. Mexico,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending,"Mexico, United States"
+122,Capital Financial Holdings v. Cameroon,"Financial Services, Other non-bank financial institutions",Decided in favor of State,"Cameroon, Luxembourg"
+12206,Mainstream Renewable Power and others v. Germany,"Energy - Electric Power, Renewable – wind",Pending,"Germany, Ireland"
+12249,Kaloti Metals v. Peru,"Trade, Wholesale Trade",Decided in favor of State,"Peru, United States"
+12346,Glencore v. Colombia (III),"Mining, Coal and lignite",Pending,"Colombia, Switzerland"
+125,Cortec Mining v. Kenya,Mining,Decided in favor of State,"Kenya, United Kingdom"
+12605,TC Energy and TransCanada Pipelines v. USA,"Construction, Specialized construction activities, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of State,"Canada, United States"
+127,Cube Infrastructure v. Spain,"Energy - Electric Power, Renewable – hydro",Decided in favor of investor,"France, Luxembourg, Spain"
+12721,AsiaPhos and Norwest v. China,Mining,Decided in favor of State,"Singapore, China"
+13,De Sutter and others v. Madagascar (II),"Fashion, Textile",Decided in favor of investor,"Belgium, Luxembourg, Madagascar"
+132,Eskosol v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State,Italy
+13225,Discovery Global v. Slovakia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Slovakia, United States"
+13274,Energía y Renovación v. Guatemala,Energy - Electric Power,Pending (Rectification/Supplementary Decision/Interpretation),"Guatemala, Panama"
+13399,Alberta Petroleum Marketing Commission v. USA,"Energy - Oil & Gas, Public Administration",Pending,"Canada, United States"
+134,Gabriel Resources v. Romania (I),"Mining, Metal ores",Pending (Annulment),"Canada, Romania, United Kingdom"
+141,"Hydro, Becchetti and others v. Albania (I)","Audiovisual, Broadcast media, Energy - Electric Power, Renewable – hydro, Water, Sanitation & Waste, Water management and supply",Decided in favor of investor,"Albania, Italy"
+14120,Niko Resources v. Bapex,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending,"Bangladesh, Barbados"
+144,IMFA v. Indonesia,"Mining, Coal and lignite",Decided in favor of State,"India, Indonesia"
+145,JGC v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Japan, Spain"
+148,Mathias Kruck and others v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Annulment),"Germany, Spain"
+1487,Mason Capital v. Republic of Korea,"Financial Services, Financial assets management",Decided in favor of investor,"South Korea, United States"
+149,KS and TLS Invest v. Spain,"Energy - Electric Power, Renewable - general",Unknown,"Germany, Spain"
+1490,Legacy Vulcan v. Mexico,Mining,Pending,"Mexico, United States"
+1493,Christian and Antoine Doutremepuich v. Mauritius,"Health, Health activities",Decided in favor of State,"France, Mauritius"
+1494,Lee-Chin v. Dominican Republic,"Water, Sanitation & Waste, Waste management",Decided in favor of investor,"Dominican Republic, Jamaica"
+1497,Manolium Processing v. Belarus,"Construction, Construction of buildings",Decided in favor of investor,"Belarus, Russia"
+150,Landesbank v. Spain,"Energy - Electric Power, Renewable – solar",Pending,"Germany, Spain"
+1519,Alverley v. Romania,"Construction, Construction of buildings",Decided in favor of State,"Romania, Cyprus"
+152,LMC v. Mexico,"Financial Services, Real Estate",Decided in favor of investor,"Canada, Mexico"
+1520,The Carlyle Group and others v. Morocco,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Discontinued,"Morocco, United States"
+1523,MTS  v. Turkmenistan (II),Telecommunication,Decided in favor of State,
+1524,Rasia v. Armenia,"Construction, Civil infrastructure",Decided in favor of State,"Armenia, United Arab Emirates, United States"
+1525,Kuntur Wasi and Corporación América v. Peru,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor,"Argentina, Peru"
+1529,Aris Mining v. Colombia,"Mining, Metal ores",Pending,"Colombia, Canada"
+1531,Bay View v. Rwanda,"Mining, Metal ores",Decided in favor of State,"Rwanda, United States"
+15316,WOC and others v. Spain,Energy - Electric Power,Pending,"Germany, Spain"
+1533,LSG Building Solutions and others v. Romania,"Energy - Electric Power, Renewable – solar",Pending (Annulment),"Isle of Man, Austria, Cyprus, Romania"
+1534,Ipek v. Turkey,"Financial Services, Financial assets management, Mining, Public Administration, Telecommunication",Decided in favor of State,"Türkiye, United Kingdom"
+1539,Montauk Metals (formerly Galway Gold) v. Colombia,"Mining, Metal ores",Decided in favor of State,"Colombia, Canada"
+1540,Red Eagle Exploration v. Colombia,"Mining, Metal ores",Decided in favor of State,"Colombia, Canada"
+1541,Kimberly-Clark v. Venezuela (I),"Paper and forest products, Manufacturing of paper and paper products",Decided in favor of State,"Netherlands, Spain, Belgium, Venezuela"
+1546,Rand Investments v. Serbia,Farming & Agriculture,Pending (Annulment),"Canada, Serbia, Cyprus"
+1550,Carrizosa v. Colombia,Financial Services,Decided in favor of State,"Colombia, United States"
+1551,Cascade Investments v. Turkey,Publishing,Decided in favor of State,"Belgium, Türkiye"
+1553,Almasryia v. Kuwait,Real Estate,Decided in favor of neither Party,"Egypt, Kuwait"
+156,Mobil Investments v. Canada (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled,"Canada, United States"
+1560,Al Ramahi v. Hungary,"Real Estate, Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Hungary, Jordan"
+1561,The Lopez-Goyne Family Trust and others v. Nicaragua,"Mining, Mining support service activities",Decided in favor of State,"Nicaragua, United States"
+1568,Addiko Bank v. Croatia,"Financial Services, Banking institutions",Pending,"Croatia, Austria"
+1569,Edmond Khudyan v. Armenia,Real Estate,Decided in favor of neither Party,"Armenia, United States"
+1571,Addiko Bank v. Montenegro,"Financial Services, Banking institutions",Decided in favor of State,"Montenegro, Austria"
+1572,EcoDevelopment and EcoEnergy v. Tanzania,"Chemicals, Farming & Agriculture",Decided in favor of investor,"Sweden, Tanzania"
+1573,Elitech v. Croatia,"Real Estate, Construction, Construction of buildings",Decided in favor of State,Croatia
+1576,Gardabani and Silk Road v. Georgia,"Energy - Electric Power, Electric power transmission and distribution, Fossil fuel",Pending (Annulment),"Georgia, Netherlands"
+1579,Magyar Farming v. Hungary,Farming & Agriculture,Decided in favor of investor,"Hungary, United Kingdom"
+1581,Mabco v. Kosovo,Real Estate,Decided in favor of investor,"Kosovo, Switzerland"
+159,OperaFund and Schwab Holding v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Malta, Spain, Switzerland"
+1598,Carnegie Minerals v. Gambia,Mining,Decided in favor of investor,Gambia
+16,Hela Schwarz v. China,"Food & beverages, Food production",Pending,"Germany, China"
+1601,Larsen v. Hawaii,Public Administration,Decided in favor of State,United States
+16014,Coropi Holdings and others v. Serbia,Real Estate,Pending,"Canada, Serbia, Cyprus"
+1608,The Eurotunnel Arbitration,"Land Transportation, Logistics & Storage, Construction, Civil infrastructure",Decided in favor of investor,"France, United Kingdom"
+16124,Honduras Próspera v. Honduras,"Construction, Construction of buildings, Civil infrastructure",Pending,"Honduras, United States"
+162,Privatbank and Finilon v. Russia,"Financial Services, Banking institutions",Pending,"Ukraine, Russia"
+1638,Westmoreland Mining v. Canada,"Mining, Coal and lignite",Decided in favor of State,"Canada, United States"
+1639,Westwater Resources v. Türkiye,"Mining, Metal ores",Decided in favor of investor,"Türkiye, United States"
+165,Rawat v. Mauritius,"Public Administration, Financial Services, Banking institutions",Decided in favor of State,"France, Mauritius"
+166,Resolute Forest Products v. Canada,"Paper and forest products, Manufacturing of paper and paper products",Decided in favor of State,"Canada, United States"
+167,Webuild (formerly Salini Impregilo) v. Argentina,"Construction, Civil infrastructure",Decided in favor of investor,"Argentina, Italy"
+169,SGRF v. Bulgaria,Financial Services,Decided in favor of State,"Bulgaria, Oman"
+171,Silver Ridge v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Italy, Netherlands"
+172,SolEs Badajoz v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Germany, Spain"
+17294,Rotalin v. Moldova,Energy - Oil & Gas,Pending,"Liechtenstein, Moldova"
+175,STEAG v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,
+17959,Bacilio Amorrortu v. Peru (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending,"Peru, United States"
+18,Itisaluna Iraq and others v. Iraq,"Telecommunication, Wireless communication activities",Decided in favor of State,"Iraq, Jordan, United Arab Emirates"
+180,Watkins Holdings v. Spain,"Energy - Electric Power, Renewable – wind",Decided in favor of investor,"Luxembourg, Netherlands, Spain"
+181,WCV and Channel Crossings v. Czech Republic,Gambling,Decided in favor of State,"Cyprus, Czech Republic"
+182,A11Y v. Czech Republic,"Health, Information Technology, Information service activities, Trade, Retail Trade",Decided in favor of State,"Czech Republic, United Kingdom"
+187,Anglo American v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream), Mining, Metal ores",Decided in favor of State,"Venezuela, United Kingdom"
+18709,Windstream Energy v. Canada (II),"Energy - Electric Power, Renewable – wind",Pending,"Canada, United States"
+188,Ansung Housing v. China,"Real Estate, Construction, Construction of buildings",Decided in favor of State,"China, South Korea"
+18805,Benabderrahmane v. Qatar,Trade,Pending,"Algeria, France, Qatar"
+189,Aven and others v. Costa Rica,Real Estate,Decided in favor of State,"Costa Rica, United States"
+19,Kazmin v. Latvia,"Metal, Manufacturing of basic metals",Discontinued,"Latvia, Ukraine"
+190,Ballantine v. Dominican Republic,Real Estate,Decided in favor of State,"Dominican Republic, United States"
+192,Beijing Urban Construction v. Yemen,"Construction, Construction of buildings",Settled,"Yemen, China"
+193,Besserglik v. Mozambique,"Farming & Agriculture, Forestry & Logging, Fishery, Aquaculture",Decided in favor of State,"Mozambique, South Africa"
+194,Blusun v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Germany, Italy, Belgium, France"
+195,Casinos Austria v. Argentina,Gambling,Pending (Annulment),"Argentina, Austria"
+196,CEAC v. Montenegro,"Metal, Manufacturing of basic metals",Decided in favor of State,"Montenegro, Cyprus"
+198,Corona Materials v. Dominican Republic,Mining,Decided in favor of State,"Dominican Republic, United States"
+199,Cyprus Popular Bank v. Greece,Financial Services,Unknown,"Greece, Cyprus"
+200,Bear Creek Mining v. Peru,"Mining, Metal ores",Decided in favor of investor,"Canada, Peru"
+202,EuroGas v. Slovakia,Mining,Decided in favor of State,"Canada, Slovakia, United States"
+204,Flemingo DutyFree v. Poland,"Trade, Retail Trade",Decided in favor of investor,"India, Poland"
+21,Lidercón v. Peru,Automotive,Decided in favor of State,"Peru, Spain"
+211,Infinito Gold v. Costa Rica,"Mining, Metal ores",Decided in favor of neither Party,"Costa Rica, Canada"
+212,InfraRed v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Spain, United Kingdom"
+214,Krederi v. Ukraine,"Real Estate, Construction, Construction of buildings",Decided in favor of State,"Ukraine, United Kingdom"
+216,LDA v. India,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"France, India"
+219,Masdar Solar v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Netherlands, Spain"
+22,Mera Investment v. Serbia,"Financial Services, Financial assets management, Other non-bank financial institutions",Decided in favor of investor,"Serbia, Cyprus"
+227,RENERGY v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment),"Luxembourg, Spain"
+228,RWE Innogy v. Spain,"Energy - Electric Power, Renewable – hydro",Decided in favor of investor,"Germany, Spain"
+23,MetLife v. Argentina,Insurance and Pension,Decided in favor of investor,"Argentina, United States"
+230,Sodexo Pass v. Hungary,Office Administration,Decided in favor of investor,"France, Hungary"
+231,Tallinn v. Estonia,"Water, Sanitation & Waste, Water management and supply",Decided in favor of State,"Estonia, Netherlands"
+234,Unión Fenosa Gas v. Egypt,"Energy - Oil & Gas, Exploration, extraction and production (upstream), Mining, Mining support service activities",Decided in favor of investor,"Egypt, Spain"
+23679,ABG v. Mexico,Farming & Agriculture,Pending,"Mexico, United States"
+238,WNC v. Czech Republic,Architecture,Decided in favor of State,"Czech Republic, United Kingdom"
+24,Rizzani de Eccher and others v. Kuwait,"Construction, Civil infrastructure",Pending (Annulment),"Italy, Kuwait, Spain"
+240,Achmea v. Slovakia (II),Insurance and Pension,Decided in favor of State,"Netherlands, Slovakia"
+24233,Suffolk and others v. Portugal,"Financial Services, Banking institutions",Pending,"Mauritius, Portugal"
+24235,Ershova and Jeršov v. Bulgaria,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Pending,"Bulgaria, Lithuania"
+24278,Bank of Nova Scotia v.  Peru,"Financial Services, Banking institutions",Pending,"Canada, Peru"
+244,Alghanim v. Jordan,"Telecommunication, Wireless communication activities",Decided in favor of State,"Jordan, Kuwait"
+245,Almås v. Poland,Farming & Agriculture,Decided in favor of State,"Norway, Poland"
+247,Infrastructure Services (Antin) v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Luxembourg, Netherlands, Spain"
+250,Spence International Investments et al. v. Costa Rica,Real Estate,Discontinued,"Costa Rica, United States"
+251,Kim and others v. Uzbekistan,Non-metallic mineral products manufacturing,Settled,"Kazakhstan, Uzbekistan"
+253,Caratube v. Kazakhstan (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Kazakhstan, United States"
+254,Cementos La Union v. Egypt,Non-metallic mineral products manufacturing,Decided in favor of State,"Egypt, Spain"
+256,Cervin and Rhone v. Costa Rica,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of neither Party,"Costa Rica, Switzerland"
+26,Pawlowski v. Czech Republic,"Construction, Construction of buildings",Decided in favor of neither Party,"Switzerland, Czech Republic"
+26030,NICO v. Bahrain,Financial Services,Pending,"Bahrain, Malaysia"
+264,Eiser v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Resubmission),"Luxembourg, Spain, United Kingdom"
+265,Eli Lilly v. Canada,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of State,"Canada, United States"
+267,Europa Nova v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Cyprus, Czech Republic"
+26926,Andraous v. Netherlands,Insurance and Pension,Pending,Netherlands
+274,I.C.W. v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Czech Republic, United Kingdom"
+27513,Silver Bull v. Mexico,"Mining, Metal ores",Pending,Mexico
+276,JSW Solar v. Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Germany, Czech Republic"
+27695,Ruby River v. Canada,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Pending,Canada
+281,UP and CD Holding v. Hungary,Office Administration,Decided in favor of investor,"France, Hungary"
+282,Lone Pine v. Canada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Canada, United States"
+2827,Carrizosa and others v. Colombia,Financial Services,Decided in favor of State,"Colombia, United States"
+283,Marfin v. Cyprus,Financial Services,Decided in favor of State,"Greece, Cyprus"
+2830,Scholz Holding GmbH v. Kingdom of Morocco,"Metal, Manufacturing of basic metals",Decided in favor of State,"Isle of Man, Morocco"
+2839,PACC v. Mexico,Maritime,Decided in favor of investor,"Mexico, Singapore"
+284,MOL v. Croatia (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Hungary, Croatia"
+2847,Dirk Herzig v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of investor,"Germany, Turkmenistan"
+2854,Schönberger v. Tajikistan,Farming & Agriculture,Decided in favor of State,"Austria, Tajikistan"
+286,Natland v. Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Czech Republic, Cyprus, Luxembourg, Netherlands"
+28621,EMS Shipping & Trading v. Albania,"Maritime, Port management",Pending,Albania
+288,Photovoltaik Knopf Betriebs v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Germany, Czech Republic"
+289,Poštová banka and Istrokapital v. Greece,Financial Services,Decided in favor of State,"Greece, Cyprus, Slovakia"
+291,RREEF v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Luxembourg, Spain, United Kingdom"
+294,South American Silver v. Bolivia,"Mining, Metal ores",Decided in favor of investor,"Bermuda, Bolivia"
+29554,Westmoreland Coal v. Canada (II),"Mining, Coal and lignite",Decided in favor of State,Canada
+29647,Zeph v. Australia (II),"Mining, Metal ores",Pending,Australia
+297,Transglobal v. Panama,"Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Panama, United States"
+301,Valores Mundiales and Consorcio Andino v. Venezuela,"Food & beverages, Food production",Decided in favor of investor,"Spain, Venezuela"
+303,Venezuela US v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Barbados, Venezuela"
+304,Voltaic Network v. The Czech Republic,"Energy - Electric Power, Renewable – solar",Decided in favor of State,"Germany, Czech Republic"
+305,Windstream Energy v. Canada (I),"Energy - Electric Power, Renewable – wind",Decided in favor of investor,"Canada, United States"
+308,Accession Mezzanine v. Hungary,"Audiovisual, Broadcast media",Decided in favor of State,"Hungary, United Kingdom"
+310,Ampal-American and others v. Egypt,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Discontinued,"Germany, Egypt, United States"
+31077,Zeph v. Australia (III),"Mining, Metal ores",Pending,Australia
+311,Apotex v. USA,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of State,"Canada, United States"
+31230,First Majestic Silver v. Mexico (II),"Mining, Metal ores",Pending,Mexico
+31273,Willars v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Pending,Mexico
+313,Blue Bank v. Venezuela,"Tourism & Travel, Hotels and accommodation, Tourism",Decided in favor of State,"Barbados, Venezuela"
+31546,BA Desarrollos v. Argentina,"Construction, Construction of buildings",Pending,Argentina
+316,Churchill Mining and Planet Mining v. Indonesia,"Mining, Coal and lignite",Decided in favor of State,"Australia, Indonesia, United Kingdom"
+317,Dan Cake v. Hungary,"Food & beverages, Food production",Decided in favor of investor,"Hungary, Portugal"
+318,CC/Devas v. India (I),"Telecommunication, Wireless communication activities",Decided in favor of investor,"India, Mauritius"
+3187,OEG v. Ukraine,Gambling,Decided in favor of investor,"Estonia, Ukraine"
+319,Emmis v. Hungary,"Audiovisual, Broadcast media",Decided in favor of State,"Hungary, Netherlands, Switzerland"
+3193,Canepa v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment),"Luxembourg, Spain"
+3194,Sastre and others v. Mexico,"Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Canada, France, Mexico, Portugal, Argentina"
+3195,Grace and others / Oro Negro v. Mexico,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Mexico, United States"
+3197,ELA v. Estonia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"Estonia, United States"
+3198,Elliott v. Korea,Financial Services,Decided in favor of investor,"South Korea, United States"
+32,Sanum Investments v. Laos (II),"Gambling, Tourism & Travel, Hotels and accommodation",Pending,"Laos, Macao SAR China"
+320,Enkev Beheer v. Poland,"Fashion, Textile",Decided in favor of State,"Netherlands, Poland"
+3203,Enel Fortuna v. Panama,"Energy - Electric Power, Renewable – hydro",Settled,"Italy, Panama"
+321,Fabrica de Vidrios v. Venezuela (I),Non-metallic mineral products manufacturing,Decided in favor of State,"Netherlands, Venezuela"
+32119,ABH Holdings v. Ukraine,"Financial Services, Banking institutions",Pending,
+3212,Seda v. Colombia,"Construction, Construction of buildings",Decided in favor of State,"Colombia, United States"
+3213,Tennant Energy v. Canada,"Energy - Electric Power, Renewable – wind",Decided in favor of State,"Canada, United States"
+3215,Odyssey Marine Exploration v. Mexico,Mining,Decided in favor of investor,"Mexico, United States"
+32174,Sea Search-Armada v. Colombia,Maritime,Pending,Colombia
+322,García Armas and García Gruber v. Venezuela,"Food & beverages, Food production",Decided in favor of investor,"Spain, Venezuela"
+32258,Fernando Andrade and Anabella de León de Paiz v. Honduras,"Energy - Electric Power, Renewable - general",Pending,Honduras
+3226,Antonio del Valle Ruiz et al. v. Spain,"Financial Services, Banking institutions",Decided in favor of State,"Mexico, Spain"
+323,Gavazzi v. Romania,"Metal, Manufacturing of basic metals",Decided in favor of investor,"Italy, Romania"
+324,Gavrilovic v. Croatia,"Food & beverages, Food production",Decided in favor of investor,"Croatia, Austria"
+32551,Libra and others v. Azerbaijan,"Real Estate, Construction, Construction of buildings",Pending,Azerbaijan
+327,Grupo Francisco Hernando Contreras v. Equatorial Guinea,"Construction, Construction of buildings",Decided in favor of State,"Equatorial Guinea, Spain"
+32762,Klesch Group and Raffinerie Heide v. Germany,Energy - Oil & Gas,Pending,Germany
+328,Guardian Fiduciary v. Macedonia,"Financial Services, Financial assets management, Financial Services",Decided in favor of State,"North Macedonia, Netherlands"
+3294,Garsu Pasaulis v. Kyrgyzstan,"Paper and forest products, Printing",Decided in favor of investor,"Kyrgyzstan, Lithuania"
+3297,Kornikom v. Serbia,"Mining, Coal and lignite",Decided in favor of State,"Bulgaria, Serbia"
+33081,Belaruskali v. Lithuania,"Chemicals, Land Transportation, Logistics & Storage, Land transport",Pending,Lithuania
+331,Lao Holdings v. Laos (I),"Gambling, Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Laos, Netherlands"
+3320,Nissan v. India,"Automotive, Manufacturing of automotive",Settled,"India, Japan"
+3329,Manchester Securities v. Poland,Real Estate,Decided in favor of investor,"Poland, United States"
+333,LSF-KEB v. Korea,"Financial Services, Other non-bank financial institutions, Real Estate, Construction, Civil infrastructure",Pending (Annulment),"Belgium, Luxembourg, South Korea"
+335,Mercer v. Canada,"Energy - Electric Power, Renewable – biomass",Decided in favor of State,"Canada, United States"
+3358,IC Power v. Peru,"Energy - Electric Power, Electric power transmission and distribution",Pending (Annulment),"Peru, Singapore"
+336,MNSS and RCA v. Montenegro,"Metal, Manufacturing of basic metals",Decided in favor of neither Party,"Montenegro, Netherlands"
+3367,Sumrain and others v. Kuwait,"Construction, Construction of buildings",Discontinued,"Egypt, Kuwait"
+337,Muhammet Çap & Sehil v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of State,"Turkmenistan, Türkiye"
+3373,Glencore v. Colombia (II),"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor,"Colombia, Switzerland"
+340,Orascom v. Algeria,"Telecommunication, Wireless communication activities",Decided in favor of State,"Algeria, Luxembourg"
+342,Ping An v. Belgium,"Financial Services, Financial assets management, Other non-bank financial institutions, Financial Services",Decided in favor of State,"Belgium, China"
+345,Rusoro Mining v. Venezuela,"Mining, Metal ores",Decided in favor of investor,"Canada, Venezuela"
+3452,Orazul v. Argentina,"Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Argentina, Spain"
+346,Saint-Gobain v. Venezuela,Mining,Decided in favor of investor,"France, Venezuela"
+3462,Latam Hydro v. Peru,"Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Peru, United States"
+3472,Nord Stream 2 v. EU,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Pending,"Switzerland, European Union"
+348,Sanum Investments v. Laos (I),"Gambling, Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Laos, Macao SAR China"
+351,Supervision v. Costa Rica,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of State,"Costa Rica, Spain"
+354,Tenaris and Talta v. Venezuela (II),"Metal, Manufacturing of basic metals",Decided in favor of investor,"Luxembourg, Portugal, Venezuela"
+357,Tethyan Copper v. Pakistan,"Mining, Metal ores",Decided in favor of investor,"Australia, Pakistan"
+358,Transban v. Venezuela,Automotive,Decided in favor of State,"Barbados, Venezuela"
+359,UAB v. Latvia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Latvia, Lithuania"
+36,A.M.F. Aircraftleasing v. Czech Republic,Aviation,Decided in favor of State,"Germany, Czech Republic"
+360,Valle Verde v. Venezuela,"Financial Services, Other non-bank financial institutions",Discontinued,"Spain, Venezuela"
+36053,Stratius v. Hungary,Energy - Electric Power,Pending,Hungary
+361,Vattenfall v. Germany (II),"Energy - Electric Power, Nuclear",Settled,"Germany, Sweden"
+362,Veolia v. Egypt,"Water, Sanitation & Waste, Waste management",Decided in favor of State,"France, Italy, Egypt"
+366,Al Tamimi v. Oman,Mining,Decided in favor of State,"Oman, United States"
+369,Arif v. Moldova,"Trade, Retail Trade",Decided in favor of investor,"France, Moldova"
+373,Belokon v. Kyrgyzstan,Financial Services,Decided in favor of investor,"Kyrgyzstan, Latvia"
+374,Burimi and Eagle Games v. Albania,Gambling,Decided in favor of State,"Albania, Italy"
+375,Copper Mesa v. Ecuador,"Mining, Metal ores",Decided in favor of investor,"Ecuador, Canada"
+376,Crystallex v. Venezuela,"Mining, Metal ores",Decided in favor of investor,"Canada, Venezuela"
+377,Detroit International v. Canada,"Construction, Civil infrastructure",Decided in favor of State,"Canada, United States"
+380,Fraport v. Philippines (II),"Aviation, Air transport",Decided in favor of State,"Germany, Philippines"
+381,Gambrinus v. Venezuela,Chemicals,Decided in favor of State,"Barbados, Venezuela"
+383,Garanti Koza v. Turkmenistan,"Construction, Civil infrastructure",Decided in favor of investor,"Turkmenistan, United Kingdom"
+386,Khan Resources v. Mongolia,"Mining, Metal ores",Decided in favor of investor,"Mongolia, Canada, Netherlands, British Virgin Islands"
+387,Koch Minerals v. Venezuela,Chemicals,Decided in favor of investor,"Switzerland, Venezuela"
+388,Renée Rose Levy and Gremcitel v. Peru,Real Estate,Decided in favor of State,"France, Peru"
+389,Longreef v. Venezuela,"Food & beverages, Food production",Decided in favor of investor,"Netherlands, Venezuela"
+391,Mamidoil v. Albania,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Albania, Greece"
+392,Merck v. Ecuador,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of investor,"Ecuador, United States"
+393,Mesa Power v. Canada,"Energy - Electric Power, Renewable – wind",Decided in favor of State,"Canada, United States"
+395,Murphy v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Ecuador, United States"
+396,National Gas v. Egypt,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of State,"Egypt, United Arab Emirates"
+397,Nova Scotia Power v. Venezuela (II),"Mining, Coal and lignite",Decided in favor of State,"Canada, Venezuela"
+398,OIEG v. Venezuela,Non-metallic mineral products manufacturing,Decided in favor of investor,"Netherlands, Venezuela"
+4,Bank Melli and Bank Saderat v. Bahrain,"Financial Services, Banking institutions",Decided in favor of investor,"Bahrain, Iran"
+400,Philip Morris v. Australia,Tobacco,Decided in favor of State,"Australia, Hong Kong SAR China"
+401,Rafat v. Indonesia,Financial Services,Decided in favor of State,"Indonesia, United Kingdom"
+402,Renco v. Peru (I),"Mining, Metal ores",Decided in favor of State,"Peru, United States"
+403,Ryan and others v. Poland,"Food & beverages, Food production",Decided in favor of State,"Poland, United States"
+406,St. Marys v. Canada,Mining,Settled,"Canada, United States"
+407,Tenaris and Talta v. Venezuela (I),"Metal, Manufacturing of basic metals",Decided in favor of investor,"Luxembourg, Portugal, Venezuela"
+408,AES Solar and others (PV Investors) v. Spain,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"United Kingdom, Denmark, Netherlands, Germany, Ireland, Luxembourg, Spain"
+4083,Espíritu Santo and L1bre v. Mexico,Telecommunication,Pending,"Canada, Mexico"
+4091,VM Solar Jerez v. Spain,"Energy - Electric Power, Renewable – solar",Pending,"Germany, Spain"
+410,Tulip Real Estate v. Turkey,Real Estate,Decided in favor of State,"Netherlands, Türkiye"
+411,Vigotop v. Hungary,Real Estate,Decided in favor of State,"Hungary, Cyprus"
+415,AbitibiBowater v. Canada,"Energy - Electric Power, Renewable – hydro, Paper and forest products, Manufacturing of paper and paper products",Settled,"Canada, United States"
+416,AES v. Kazakhstan,"Energy - Electric Power, Fossil fuel, Trade, Wholesale Trade",Decided in favor of neither Party,"Kazakhstan, Netherlands, United States"
+417,Allard v. Barbados,Real Estate,Decided in favor of State,"Barbados, Canada"
+4188,Gerald International v. Sierra Leone,"Mining, Metal ores",Settled,"Sierra Leone, United Kingdom"
+419,Awdi v. Romania,"Publishing, Real Estate",Decided in favor of investor,"Romania, United States"
+421,Border Timbers v. Zimbabwe,Forestry & Logging,Decided in favor of investor,"Switzerland, Zimbabwe"
+422,Bosca v. Lithuania,"Food & beverages, Beverages’ production",Decided in favor of neither Party,"Italy, Lithuania"
+424,British Caribbean Bank v. Belize,Telecommunication,Decided in favor of investor,"Belize, United Kingdom"
+426,Renée Rose Levy v. Peru,Financial Services,Decided in favor of State,"France, Peru"
+427,Dede v. Romania,"Machinery and equipment, Manufacturing of machinery and equipment",Decided in favor of State,"Romania, Türkiye"
+428,Dunkeld v. Belize (II),"Telecommunication, Wired communication activities",Settled,"Belize, United Kingdom"
+43,B-Mex and others v. Mexico,"Gambling, Real Estate",Decided in favor of investor,"Mexico, United States"
+432,Guaracachi and Rurelec v. Bolivia,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor,"Bolivia, United Kingdom, United States"
+433,İçkale v. Turkmenistan,"Construction, Civil infrastructure",Decided in favor of State,"Turkmenistan, Türkiye"
+434,Kiliç v. Turkmenistan,"Construction, Construction of buildings",Decided in favor of State,"Turkmenistan, Türkiye"
+436,Metal-Tech v. Uzbekistan,"Metal, Manufacturing of basic metals",Decided in favor of State,"Israel, Uzbekistan"
+437,Minnotte and Lewis v. Poland,"Health, Health activities",Decided in favor of State,"Poland, United States"
+440,Philip Morris v. Uruguay,Tobacco,Decided in favor of State,"Switzerland, Uruguay"
+442,RSM and others v. Grenada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,
+443,SCB v. Tanzania,Energy - Electric Power,Decided in favor of State,"Tanzania, United Kingdom"
+444,ST-AD v. Bulgaria,Real Estate,Decided in favor of State,"Bulgaria, Germany"
+445,TECO v. Guatemala,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor,"Guatemala, United States"
+4456,Amec Foster Wheeler v. Colombia (I),Energy - Oil & Gas,Pending (Annulment),"Colombia, United States"
+446,Tidewater v. Venezuela,"Mining, Mining support service activities",Decided in favor of investor,"Barbados, Venezuela"
+447,Universal Compression v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled,"Spain, Venezuela"
+4473,Winshear Gold v. Tanzania,"Mining, Metal ores",Settled,"Canada, Tanzania"
+448,von Pezold and others v. Zimbabwe,Farming & Agriculture,Decided in favor of investor,"Germany, Switzerland, Zimbabwe"
+455,Centurion v. Canada,"Health, Health activities",Discontinued,"Canada, United States"
+457,Chevron and TexPet v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Pending,"Ecuador, United States"
+458,Commerce Group v. El Salvador,"Mining, Metal ores",Decided in favor of State,"El Salvador, United States"
+459,Deutsche Bank v. Sri Lanka,Financial Services,Decided in favor of investor,"Germany, Sri Lanka"
+460,Dogan v. Turkmenistan,Farming & Agriculture,Decided in favor of investor,"Germany, Turkmenistan"
+462,Dunkeld v. Belize (I),"Telecommunication, Wired communication activities",Settled,"Belize, United Kingdom"
+464,ECE v. Czech Republic,Real Estate,Decided in favor of State,"Germany, Czech Republic"
+467,EURAM Bank v. Slovakia,Insurance and Pension,Decided in favor of State,"Austria, Slovakia"
+468,EVN v. Macedonia,"Energy - Electric Power, Electric power transmission and distribution",Settled,"North Macedonia, Austria"
+47,Joshua Dean Nelson v. Mexico,Telecommunication,Decided in favor of State,"Mexico, United States"
+470,Global Trading v. Ukraine,Farming & Agriculture,Decided in favor of State,"Ukraine, United States"
+472,Gold Reserve v. Venezuela (I),"Mining, Metal ores",Decided in favor of investor,"Canada, Venezuela"
+473,H&H v. Egypt,"Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Egypt, United States"
+475,Iberdrola v. Guatemala (I),"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State,"Guatemala, Spain"
+477,ICS v. Argentina (I),"Maritime, Shipping",Decided in favor of State,"Argentina, United Kingdom"
+479,KT Asia v. Kazakhstan,Financial Services,Decided in favor of State,"Kazakhstan, Netherlands"
+48,Bridgestone v. Panama,Rubber & Plastics,Decided in favor of State,"Panama, United States"
+482,Pac Rim v. El Salvador,"Mining, Metal ores",Decided in favor of State,"El Salvador, United States"
+483,Reinhard Unglaube v. Costa Rica,Real Estate,Decided in favor of State,"Costa Rica, Germany"
+484,Servier v. Poland,"Pharmaceuticals and biotechnology, Pharmaceuticals",Decided in favor of investor,"France, Poland"
+485,Swisslion v. Macedonia,"Food & beverages, Food production",Decided in favor of investor,North Macedonia
+486,Teinver v. Argentina,"Aviation, Air transport",Decided in favor of investor,"Argentina, Spain"
+488,Ulysseas v. Ecuador,"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Ecuador, United States"
+49,Burmilla Trust and others v. Lesotho,Mining,Discontinued,"Lesotho, South Africa"
+490,Vattenfall v. Germany (I),"Energy - Electric Power, Fossil fuel",Settled,"Germany, Sweden"
+492,Achmea v. Slovakia (I),Insurance and Pension,Decided in favor of investor,"Netherlands, Slovakia"
+4922,Renco v. Peru (II),"Mining, Metal ores",Pending,"Peru, United States"
+494,Alapli v. Turkey,"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Netherlands, Türkiye"
+497,Ambiente Ufficio and others v. Argentina,Financial Services,Discontinued,"Argentina, Italy"
+499,ATA Construction v. Jordan,"Construction, Civil infrastructure",Decided in favor of investor,"Jordan, Türkiye"
+501,Bosh v. Ukraine,"Construction, Construction of buildings",Decided in favor of State,"Ukraine, United States"
+502,Burlington v. Ecuador,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Ecuador, United States"
+503,Caratube v. Kazakhstan (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Kazakhstan, United States"
+504,CEMEX v. Venezuela,Non-metallic mineral products manufacturing,Settled,"Netherlands, Venezuela"
+5044,Adria Group v. Croatia,"Trade, Retail Trade",Pending,"Croatia, Netherlands"
+505,Clayton/Bilcon v. Canada,Mining,Pending,"Canada, United States"
+507,GEA v. Ukraine,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State,"Germany, Ukraine"
+508,HICEE v. Slovakia,Insurance and Pension,Decided in favor of State,"Netherlands, Slovakia"
+5081,Vercara v. Colombia,Information Technology,Decided in favor of State,"Colombia, United States"
+5096,Pildegovics v. Norway,"Fishery, Food & beverages, Food production, Food and beverage service activities",Pending (Annulment),"Latvia, Norway"
+510,Inmaris Perestroika v. Ukraine,"Maritime, Shipping",Decided in favor of investor,"Germany, Ukraine"
+512,InterTrade v. Czech Republic,Forestry & Logging,Decided in favor of State,"Germany, Czech Republic"
+513,Itera v. Georgia (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Settled,"Georgia, Netherlands, United States"
+516,Malicorp v. Egypt,"Aviation, Air transport, Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"Egypt, United Kingdom"
+517,Marion Unglaube v. Costa Rica,Real Estate,Decided in favor of investor,"Costa Rica, Germany"
+519,Millicom v. Senegal,"Telecommunication, Wireless communication activities",Settled,"Netherlands, Senegal"
+520,Murphy v. Ecuador (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Ecuador, United States"
+522,Nova Scotia Power v. Venezuela (I),"Mining, Coal and lignite",Decided in favor of State,"Canada, Venezuela"
+525,Perenco v. Ecuador,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Bahamas, Ecuador"
+528,Tatneft v. Ukraine,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Ukraine, Russia"
+53,VC Holding II v. Italy,Energy - Electric Power,Pending,"Italy, Germany, Luxembourg, United Kingdom"
+531,Abaclat and others v. Argentina,Financial Services,Settled,"Argentina, Italy"
+533,AES v. Hungary (II),"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Hungary, United Kingdom"
+535,Alemanni and others v. Argentina,Financial Services,Discontinued,"Argentina, Italy"
+536,Alpha Projektholding v. Ukraine,"Construction, Construction of buildings, Tourism & Travel, Hotels and accommodation",Decided in favor of investor,"Ukraine, Austria"
+537,Anderson v. Costa Rica,"Financial Services, Financial assets management, Financial Services",Decided in favor of State,"Costa Rica, Canada"
+538,Bureau Veritas v. Paraguay,"Maritime, Shipping",Settled,"Netherlands, Paraguay"
+54,Sevilla Beheer and others v. Spain,"Energy - Electric Power, Renewable – solar",Unknown,"Netherlands, Spain"
+540,ConocoPhillips v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Netherlands, Venezuela"
+541,Electrabel v. Hungary,"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Belgium, Hungary"
+544,Europe Cement v. Turkey,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State,"Poland, Türkiye"
+545,Foresti v. South Africa,Mining,Discontinued,"Italy, Luxembourg, South Africa"
+546,Frontier v. Czech Republic,"Aviation, Manufacturing of aircrafts and other aviation equipment",Decided in favor of State,"Canada, Czech Republic"
+547,Fuchs v. Georgia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Georgia, Israel"
+548,Gallo v. Canada,"Water, Sanitation & Waste, Waste management",Decided in favor of State,"Canada, United States"
+550,Hamester v. Ghana,"Food & beverages, Food production",Decided in favor of State,"Germany, Ghana"
+551,HOCHTIEF v. Argentina,"Construction, Civil infrastructure",Discontinued,"Argentina, Germany"
+552,Impregilo v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor,"Argentina, Italy"
+556,Liman Caspian Oil and NCL Dutch Investment v. Kazakhstan,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Kazakhstan, Netherlands"
+557,Mobil and others v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"United States, Bahamas, Venezuela, Netherlands"
+558,Mobil Investments v. Canada (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Canada, United States"
+559,Pantechniki v. Albania,"Construction, Civil infrastructure",Decided in favor of State,"Albania, Greece"
+562,RDC v. Guatemala,"Construction, Civil infrastructure",Decided in favor of investor,"Guatemala, United States"
+564,Saba Fakes v. Turkey,"Telecommunication, Wireless communication activities",Decided in favor of State,"Netherlands, Türkiye"
+565,SGS v. Paraguay,"Maritime, Shipping",Decided in favor of investor,"Paraguay, Switzerland"
+568,TCW v. Dominican Republic,"Energy - Electric Power, Electric power transmission and distribution",Settled,"Dominican Republic, United States"
+569,Toto v. Lebanon,"Construction, Civil infrastructure",Decided in favor of State,"Italy, Lebanon"
+570,Trans-Global v. Jordan,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled,"Jordan, United States"
+572,Tza Yap Shum v. Peru,"Food & beverages, Food production",Decided in favor of investor,"Peru, China"
+573,Urbaser v. Argentina,"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of neither Party,"Argentina, Spain"
+574,Azpetrol v. Azerbaijan,"Energy - Oil & Gas, Processing, storage and transportation (midstream), Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Settled,"Azerbaijan, Netherlands"
+576,Cementownia v. Turkey (I),"Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Poland, Türkiye"
+578,Chevron and TexPet v. Ecuador (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Ecuador, United States"
+58,Dominion Minerals v. Panama,"Mining, Metal ores",Decided in favor of investor,"Panama, United States"
+580,Lemire v. Ukraine (II),"Audiovisual, Broadcast media",Decided in favor of investor,"Ukraine, United States"
+581,Libananco v. Turkey,"Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Cyprus, Türkiye"
+583,Merrill & Ring v. Canada,Forestry & Logging,Decided in favor of State,"Canada, United States"
+584,Nations Energy v. Panama,"Energy - Electric Power, Fossil fuel",Decided in favor of State,"Panama, United States"
+586,Occidental v. Ecuador (II),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Ecuador, United States"
+589,Phoenix Action v. Czech Republic,"Trade, Wholesale Trade",Decided in favor of State,"Israel, Czech Republic"
+590,Quiborax v. Bolivia,"Mining, Non-metallic mineral products manufacturing",Decided in favor of investor,"Bolivia, Chile"
+592,Romak v. Uzbekistan,Farming & Agriculture,Decided in favor of State,"Uzbekistan, Switzerland"
+593,Rompetrol v. Romania,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of neither Party,"Netherlands, Romania"
+594,Roussalis v. Romania,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation, Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Greece, Romania"
+597,Sistem v. Kyrgyzstan,"Construction, Construction of buildings, Tourism & Travel, Hotels and accommodation",Decided in favor of investor,"Kyrgyzstan, Türkiye"
+599,Vestey v. Venezuela,Farming & Agriculture,Decided in favor of investor,"Venezuela, United Kingdom"
+60,Eco Oro v. Colombia,"Mining, Metal ores",Decided in favor of neither Party,"Colombia, Canada"
+603,Ares and MetalGeo v. Georgia,"Metal, Manufacturing of basic metals",Decided in favor of investor,"Georgia, Italy"
+605,Bayview v. Mexico,Farming & Agriculture,Decided in favor of State,"Mexico, United States"
+606,Funnekotter v. Zimbabwe,Farming & Agriculture,Decided in favor of investor,"Netherlands, Zimbabwe"
+608,Biwater v. Tanzania,"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of neither Party,"Tanzania, United Kingdom"
+611,Cargill v. Mexico,"Food & beverages, Food production",Decided in favor of investor,"Mexico, United States"
+613,Daimler v. Argentina,"Automotive, Financial Services",Decided in favor of State,"Argentina, Germany"
+614,Desert Line v. Yemen,"Construction, Civil infrastructure",Decided in favor of investor,"Yemen, Oman"
+615,EDF v. Romania,"Trade, Retail Trade",Decided in favor of State,"Romania, United Kingdom"
+616,EMELEC v. Ecuador,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State,"Ecuador, United States"
+618,Helnan v. Egypt,"Tourism & Travel, Hotels and accommodation",Decided in favor of State,"Denmark, Egypt"
+619,HEP v. Slovenia,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor,"Croatia, Slovenia"
+620,Hulley Enterprises v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Russia, Cyprus"
+623,Kardassopoulos v. Georgia,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Georgia, Greece"
+625,MHS v. Malaysia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"Malaysia, United Kingdom"
+626,Micula v. Romania (I),"Food & beverages, Food production",Decided in favor of investor,"Romania, Sweden"
+628,Mytilineos v. Serbia (I),"Mining, Metal ores",Decided in favor of State,"Greece, Serbia, Serbia and Montenegro"
+629,Noble Energy v. Ecuador,"Energy - Electric Power, Fossil fuel",Settled,"Ecuador, United States"
+63,ESPF and others v. Italy,"Energy - Electric Power, Renewable – solar",Decided in favor of investor,"Germany, Italy, Austria"
+630,Parkerings v. Lithuania,"Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"Lithuania, Norway"
+633,Rumeli v. Kazakhstan,"Telecommunication, Wireless communication activities",Decided in favor of investor,"Kazakhstan, Türkiye"
+634,Saipem v. Bangladesh,"Construction, Civil infrastructure, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Bangladesh, Italy"
+636,Siag v. Egypt,Real Estate,Decided in favor of investor,"Egypt, Italy"
+637,TSA Spectrum v. Argentina,"Telecommunication, Wireless communication activities",Decided in favor of State,"Argentina, Netherlands"
+638,Veteran Petroleum v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Russia, Cyprus"
+640,Yukos Universal v. Russia,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Isle of Man, Russia"
+643,ADM v. Mexico,"Food & beverages, Food production",Decided in favor of investor,"Mexico, United States"
+6481,Freeport-McMoRan v. Peru,Mining,Pending (Annulment),"Peru, United States"
+649,BP v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled,"Argentina, United States"
+65,Eurus Energy v. Spain,"Energy - Electric Power, Renewable – wind",Pending (Annulment),"Japan, Netherlands, Spain"
+650,Cargill v. Poland,"Food & beverages, Food production",Decided in favor of investor,"Poland, United States"
+6528,Fischer v. Czech Republic (I),"Tourism & Travel, Tourism",Decided in favor of State,"Germany, Czech Republic"
+654,Corn Products v. Mexico,"Food & beverages, Food production",Decided in favor of investor,"Mexico, United States"
+657,Duke Energy v. Ecuador,"Energy - Electric Power, Fossil fuel",Decided in favor of investor,"Ecuador, United States"
+661,Gemplus v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of investor,"France, Mexico"
+6628,South32 v. Colombia (I),Mining,Pending (Annulment),
+664,Jan de Nul v. Egypt,"Construction, Civil infrastructure",Decided in favor of State,"Belgium, Egypt"
+668,OKO v. Estonia,Financial Services,Decided in favor of investor,"Estonia, Finland"
+67,Eyre and Montrose Developments v. Sri Lanka,"Real Estate, Construction, Construction of buildings",Pending (Annulment),"Sri Lanka, United Kingdom"
+672,Talsud v. Mexico,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of investor,"Argentina, Mexico"
+673,Telenor v. Hungary,"Telecommunication, Wireless communication activities",Decided in favor of State,"Hungary, Norway"
+676,Total S.A. v. Argentina,"Energy - Electric Power, Renewable – hydro, Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Argentina, France"
+679,Vannessa Ventures v. Venezuela,"Mining, Metal ores",Decided in favor of State,"Canada, Venezuela"
+6805,Einarsson and GSI v. Canada,"Information Technology, Technology, Information service activities",Pending,"Canada, United States"
+682,Wintershall v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Argentina, Germany"
+683,ADC v. Hungary,"Aviation, Air transport, Construction, Construction of buildings, Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor,"Hungary, Cyprus"
+687,Bayındır v. Pakistan (I),"Construction, Civil infrastructure",Decided in favor of State,"Pakistan, Türkiye"
+690,Camuzzi v. Argentina (I),"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Settled,"Argentina, Luxembourg"
+693,Continental Casualty v. Argentina,Insurance and Pension,Decided in favor of investor,"Argentina, United States"
+695,EDF and others v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor,"Argentina, France, Luxembourg"
+696,El Paso v. Argentina,"Energy - Electric Power, Fossil fuel, Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Argentina, United States"
+70,Glencore Finance v. Bolivia,"Metal, Manufacturing of basic metals, Mining, Metal ores",Decided in favor of investor,"Bolivia, United Kingdom"
+700,Fraport v. Philippines (I),"Aviation, Air transport",Decided in favor of State,"Germany, Philippines"
+701,Gas Natural v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Settled,"Argentina, Spain"
+703,Impregilo v. Pakistan (II),"Energy - Electric Power, Renewable – hydro",Settled,"Italy, Pakistan"
+704,Inceysa v. El Salvador,"Land Transportation, Logistics & Storage, Land transport",Decided in favor of State,"El Salvador, Spain"
+705,Industria Nacional de Alimentos v. Peru,"Food & beverages, Food production",Decided in favor of State,"Chile, Peru"
+706,Joy Mining v. Egypt,Mining,Decided in favor of State,"Egypt, United Kingdom"
+707,L.E.S.I. - DIPENTA v. Algeria,"Construction, Civil infrastructure",Decided in favor of State,"Algeria, Italy"
+708,MCI v. Ecuador,Energy - Electric Power,Decided in favor of State,"Ecuador, United States"
+709,Metalpar v. Argentina,"Automotive, Manufacturing of automotive",Decided in favor of State,"Argentina, Chile"
+71,Glencore v. Colombia (I),"Mining, Coal and lignite",Decided in favor of investor,"Colombia, Switzerland"
+710,Miminco v. Congo,"Mining, Metal ores",Settled,"DR Congo, United States"
+712,Pan American v. Argentina,"Energy - Electric Power, Fossil fuel, Energy - Oil & Gas, Exploration, extraction and production (upstream)",Settled,"Argentina, United States"
+715,Plama v. Bulgaria,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of State,"Bulgaria, Cyprus"
+716,Suez v. Argentina,"Water, Sanitation & Waste, Water management and supply",Decided in favor of investor,"Argentina, France"
+717,Telefónica v. Argentina,"Telecommunication, Wired communication activities",Settled,"Argentina, Spain"
+72,Global Telecom Holding v. Canada,"Telecommunication, Wireless communication activities",Decided in favor of State,"Egypt, Canada"
+720,Vivendi v. Argentina (II),"Water, Sanitation & Waste, Water management and supply",Decided in favor of investor,"Argentina, France, Spain"
+721,AES v. Argentina,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of investor,"Argentina, United States"
+722,Aguas del Tunari v. Bolivia,"Water, Sanitation & Waste, Water management and supply, Sewerage",Settled,"Bolivia, Netherlands"
+723,Ahmonseto v. Egypt,"Fashion, Textile",Decided in favor of State,"Egypt, United States"
+725,Champion Trading v. Egypt,Farming & Agriculture,Decided in favor of State,"Egypt, United States"
+726,Chemtura v. Canada,Chemicals,Decided in favor of State,"Canada, United States"
+727,Fireman's Fund v. Mexico,Financial Services,Decided in favor of State,"Mexico, United States"
+731,IBM v. Ecuador,"Information Technology, Information service activities",Settled,"Ecuador, United States"
+735,LG&E v. Argentina,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of investor,"Argentina, United States"
+738,PSEG v. Turkey,"Energy - Electric Power, Fossil fuel",Decided in favor of investor,"Türkiye, United States"
+739,Salini v. Jordan,"Construction, Civil infrastructure",Decided in favor of State,"Italy, Jordan"
+740,Sempra v. Argentina,"Energy - Oil & Gas, Refining, marketing and distribution (downstream)",Decided in favor of investor,"Argentina, United States"
+741,SGS v. Philippines,Trade,Settled,"Philippines, Switzerland"
+742,Siemens v. Argentina,Public Administration,Decided in favor of investor,"Argentina, Germany"
+743,Soufraki v. UAE,"Construction, Civil infrastructure",Decided in favor of State,"Italy, United Arab Emirates"
+745,Tokios Tokelés v. Ukraine,Publishing,Decided in favor of State,"Lithuania, Ukraine"
+748,AIG v. Kazakhstan,Real Estate,Decided in favor of investor,"Kazakhstan, United States"
+749,Azurix v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor,"Argentina, United States"
+752,CMS v. Argentina,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Argentina, United States"
+753,Enron v. Argentina,"Energy - Oil & Gas, Processing, storage and transportation (midstream)",Decided in favor of investor,"Argentina, United States"
+754,F-W Oil v. Trinidad & Tobago,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Trinidad and Tobago, United States"
+757,MTD v. Chile,Real Estate,Decided in favor of investor,"Chile, Malaysia"
+758,Noble Ventures v. Romania,"Financial Services, Management Consulting",Decided in favor of State,"Romania, United States"
+76,Gosling and others v. Mauritius,Real Estate,Decided in favor of State,"Mauritius, United Kingdom"
+760,Saluka v. Czech Republic,Financial Services,Settled,"Netherlands, Czech Republic"
+761,SGS v. Pakistan,Trade,Settled,"Pakistan, Switzerland"
+762,ADF v. USA,"Construction, Civil infrastructure",Decided in favor of State,"Canada, United States"
+765,Generation Ukraine v. Ukraine,"Construction, Construction of buildings",Decided in favor of State,"Ukraine, United States"
+766,Mihaly v. Sri Lanka,Energy - Electric Power,Decided in favor of State,"Sri Lanka, United States"
+768,Salini v. Morocco,"Construction, Civil infrastructure",Settled,"Italy, Morocco"
+77,Gramercy v. Peru,"Financial Services, Financial assets management, Other non-bank financial institutions, Financial Services",Decided in favor of investor,"Peru, United States"
+770,Tecmed v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of investor,"Mexico, Spain"
+773,Waste Management v. Mexico (II),"Water, Sanitation & Waste, Waste management",Decided in favor of State,"Mexico, United States"
+774,Yaung Chi v. Myanmar,"Food & beverages, Beverages’ production",Decided in favor of State,"Myanmar, Singapore"
+777,Feldman v. Mexico,"Trade, Wholesale Trade",Decided in favor of investor,"Mexico, United States"
+778,Genin v. Estonia,"Financial Services, Real Estate",Decided in favor of State,"Estonia, United States"
+779,Gruslin v. Malaysia (II),"Financial Services, Financial assets management, Financial Services",Decided in favor of State,"Belgium, Malaysia"
+783,Middle East Cement v. Egypt,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor,"Egypt, Greece"
+784,Mitchell v. DR Congo,Legal Services,Decided in favor of investor,"DR Congo, United States"
+785,Mondev v. USA,Real Estate,Decided in favor of State,"Canada, United States"
+790,Lemire v. Ukraine (I),"Audiovisual, Broadcast media",Settled,"Ukraine, United States"
+791,Loewen v. USA,Insurance and Pension,Decided in favor of State,"Canada, United States"
+793,Olguín v. Paraguay,"Food & beverages, Food production",Decided in favor of State,"Paraguay, Peru"
+794,Pey Casado v. Chile (I),Publishing,Decided in favor of State,"Chile, Spain"
+796,Waste Management v. Mexico (I),"Publishing, Water, Sanitation & Waste, Waste management",Decided in favor of State,"Mexico, United States"
+797,Wena Hotels v. Egypt,Real Estate,Decided in favor of investor,"Egypt, United Kingdom"
+798,Azinian v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of State,"Mexico, United States"
+799,CSOB. v. Slovak Republic,Financial Services,Decided in favor of investor,"Slovakia, Czech Republic"
+80,Infracapital v. Spain,"Energy - Electric Power, Renewable – solar",Pending (Annulment),"Luxembourg, Netherlands, Spain"
+801,Lanco v. Argentina,"Construction, Specialized construction activities",Settled,"Argentina, United States"
+802,Maffezini v. Spain,Chemicals,Decided in favor of investor,"Argentina, Spain"
+803,Metalclad v. Mexico,"Water, Sanitation & Waste, Waste management",Decided in favor of investor,"Mexico, United States"
+804,Vivendi v. Argentina (I),"Water, Sanitation & Waste, Water management and supply, Sewerage",Decided in favor of investor,"Argentina, France"
+807,FEDAX v. Venezuela,Financial Services,Decided in favor of investor,"Netherlands, Venezuela"
+81,Italba v. Uruguay (I),"Telecommunication, Wireless communication activities",Decided in favor of State,"Uruguay, United States"
+815,AMT v. Zaire,"Machinery and equipment, Electrical Equipment Manufacturing",Settled,"DR Congo, United States"
+816,AAPL v. Sri Lanka,"Fishery, Fishing",Decided in favor of investor,"Sri Lanka, United Kingdom"
+820,Santa Elena v. Costa Rica,Real Estate,Decided in favor of investor,Costa Rica
+821,World Duty Free v. Kenya,"Real Estate, Trade, Retail Trade",Decided in favor of State,"Kenya, United Kingdom"
+822,Tradex Hellas v. Albania,Farming & Agriculture,Decided in favor of State,"Albania, Greece"
+823,SPP v. Egypt,Real Estate,Decided in favor of investor,"Egypt, Hong Kong SAR China, United Kingdom"
+824,Repsol v. Petroecuador,Mining,Decided in favor of investor,"Ecuador, Spain"
+825,MINE v. Guinea (II),Mining,Settled,"Guinea, Switzerland"
+826,CDC v. Seychelles,Energy - Electric Power,Decided in favor of investor,"Seychelles, United Kingdom"
+827,Banro Resources v. DR Congo,Mining,Decided in favor of State,"DR Congo, United States"
+828,Amco v. Indonesia,Real Estate,Decided in favor of investor,"United Kingdom, United States, Indonesia"
+832,Brandes Investment v. Venezuela,Telecommunication,Decided in favor of State,"Venezuela, United States"
+833,International Quantum Resources and others v. DR Congo,"Mining, Metal ores",Discontinued,"British Virgin Islands, DR Congo"
+834,OPIC Karimum v. Venezuela,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Panama, Venezuela"
+835,Getma v. Guinea (II),"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of investor,"France, Guinea"
+839,PNG Sustainable Development v. Papua New Guinea,"Mining, Metal ores",Decided in favor of State,"Papua New Guinea, Singapore"
+843,Interocean Oil v. Nigeria,Mining,Decided in favor of State,"Nigeria, United States"
+847,ACP Axos Capital v. Kosovo,Telecommunication,Decided in favor of State,"Germany, Kosovo"
+848,BSG Resources v. Guinea (I),Mining,Decided in favor of State,"Guinea, United Kingdom"
+849,Société Resort Company Invest Abidjan v. Côte d'Ivoire,"Tourism & Travel, Hotels and accommodation",Unknown,"France, Côte d’Ivoire"
+85,Lao Holdings v. Laos (II),"Gambling, Tourism & Travel, Hotels and accommodation",Pending,"Laos, Netherlands"
+850,Zhinvali Development Ltd. v. Republic of Georgia,"Construction, Civil infrastructure, Energy - Electric Power, Renewable – hydro",Decided in favor of State,"Georgia, Ireland"
+851,Lighthouse v. Timor-Leste,"Construction, Construction of buildings, Energy - Electric Power, Fossil fuel",Decided in favor of State,"Australia, Timor-Leste, Seychelles"
+861,Vacuum Salt v. Ghana,Mining,Decided in favor of State,Ghana
+876,Klöckner v. Cameroon,"Construction, Construction of buildings, Specialized construction activities",Decided in favor of investor,"Belgium, Cameroon, Netherlands, Germany"
+878,Duke Energy v. Peru,"Energy - Electric Power, Renewable - general, Renewable – hydro",Decided in favor of investor,"Bermuda, Peru"
+88,Nova Group v. Romania,Insurance and Pension,Decided in favor of State,"Netherlands, Romania"
+882,City Oriente v. Ecuador and Petroecuador (I),Mining,Settled,"Ecuador, Panama"
+883,Cambodia Power Company v. Cambodia and Electricité du Cambodge,"Energy - Electric Power, Fossil fuel",Decided in favor of State,Cambodia
+884,"Cable Television of Nevis, Ltd. and Cable Television of Nevis Holdings, Ltd. v. Federation of St. Kitts and Nevis",Telecommunication,Discontinued,St. Kitts & Nevis
+889,LETCO v. Liberia,Forestry & Logging,Decided in favor of investor,Liberia
+896,Government of the Province of East Kalimantan v. PT Kaltim Prima Coal and others,Financial Services,Decided in favor of investor,"United Kingdom, Indonesia, Isle of Man, Mauritius, Russia"
+897,Niko Resources v. Petrobangla and Bapex,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Bangladesh, Barbados"
+898,Active Partners Group v. South Sudan,"Construction, Energy - Electric Power",Decided in favor of investor,"Sudan, South Sudan"
+902,TANESCO v. IPTL,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of neither Party,Tanzania
+903,Standard Chartered Bank (Hong Kong) v. Tanzania Electric Supply,"Energy - Electric Power, Fossil fuel",Decided in favor of investor,"China, Tanzania"
+91,Omega Engineering v. Panama (I),"Construction, Construction of buildings",Decided in favor of State,"Panama, United States"
+9102,BRIF TRES v. Serbia,Construction,Decided in favor of State,"Luxembourg, Serbia"
+917,Balkan Energy v. Ghana,"Energy - Electric Power, Fossil fuel",Decided in favor of investor,"United Kingdom, United States, Ghana"
+919,RSM Production v. Grenada,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Grenada, United States"
+9198,First Majestic Silver v. Mexico (I),"Mining, Metal ores",Pending,"Canada, Mexico"
+927,Chevron v. Bangladesh (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Bangladesh, United Kingdom"
+928,"Aguaytia Energy, LLC v. Republic of Peru","Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State,"Peru, United States"
+9296,Durres Kurum Shipping v. Albania,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Decided in favor of State,"Albania, United Kingdom, United States"
+9347,Campos de Pesé v. Panama,Energy - Electric Power,Decided in favor of State,"Italy, Panama"
+935,"Scimitar Exploration Limited v. Bangladesh and Bangladesh Oil, Gas and Mineral Corporation",Mining,Decided in favor of State,"Bangladesh, United Kingdom"
+939,Aucoven v. Venezuela,"Construction, Financial Services",Decided in favor of investor,Venezuela
+9408,Bacilio Amorrortu v. Peru (I),"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of State,"Peru, United States"
+941,Société d'Exploitation des Mines d'Or de Sadiola S.A. v. Republic of Mali,Mining,Unknown,Mali
+9471,Fengzhen Min v. South Korea,Real Estate,Pending (Annulment),"China, South Korea"
+9473,Meijer v. Georgia,"Land Transportation, Logistics & Storage, Warehousing and support activities for transportation",Pending,"Georgia, Netherlands"
+95,Safa v. Greece,"Financial Services, Maritime, Manufacturing of ships, boats and other shipping equipment",Decided in favor of neither Party,"Greece, Lebanon"
+9551,Fund for Protection of Investors' Rights v. Lithuania,"Financial Services, Banking institutions",Decided in favor of State,"Lithuania, Russia"
+958,AHS Niger and Menzies v. Niger,"Aviation, Airport management",Decided in favor of investor,"Luxembourg, Niger"
+974,Mobil v. Argentina,"Energy - Oil & Gas, Exploration, extraction and production (upstream)",Decided in favor of investor,"Argentina, United States"
+9862,Encavis and others v. Italy,"Energy - Electric Power, Electric power transmission and distribution",Decided in favor of State,"Germany, Italy"
+9863,Qatar National Bank v. South Sudan,"Financial Services, Banking institutions",Decided in favor of investor,"Qatar, South Sudan"
+9868,Eni and others v. Nigeria,Mining,Pending,"Netherlands, Nigeria"
+993,Anglo-Adriatic Group v. Albania,"Maritime, Shipping",Decided in favor of State,"Albania, United Kingdom"

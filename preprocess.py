@@ -82,11 +82,12 @@ def load_all_cases_to_csv(directory_path: str, output_csv_path: str):
                 'case_id': os.path.splitext(filename)[0],
                 'title': case.Title,
                 'industries': ', '.join(case.Industries),
-                'status': case.Status
+                'status': case.Status,
+                'nationalities': ', '.join(case.PartyNationalities)
             })
 
     with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['case_id', 'title', 'industries', 'status']
+        fieldnames = ['case_id', 'title', 'industries', 'status', 'nationalities']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_cases)
