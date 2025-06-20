@@ -79,7 +79,7 @@ def load_all_cases_to_csv(directory_path: str, output_csv_path: str):
             file_path = os.path.join(directory_path, filename)
             case = load_json(file_path)
             all_cases.append({
-                'case_id': case.Identifier,
+                'case_id': os.path.splitext(filename)[0],
                 'title': case.Title,
                 'industries': ', '.join(case.Industries),
                 'status': case.Status
