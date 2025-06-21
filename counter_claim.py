@@ -12,11 +12,11 @@ def make_counter_claim(user_query: str):
     print("Finding relevant cases...")
     case_ids = find_cases(user_query=SAMPLE_USER_QUERY, top_n=8)
     print(f"Found relevant cases: {case_ids}")
-    case_summaries = dict()
+    case_summaries = []
     for case_id in tqdm(case_ids, desc="Summarazing cases"):
-        case_summaries[case_id] = case_summary(case_id=case_id, user_query=user_query)
+        case_summaries.append(case_summary(case_id=case_id, user_query=user_query))
     print("Producing report...")
-    summaries_str = "\n\n".join(case_summaries.values())
+    summaries_str = "\n\n".join(case_summaries)
     prompt = f"""Produce comprehensive precise report satisfying:    
 
 1. Legal source retrieval

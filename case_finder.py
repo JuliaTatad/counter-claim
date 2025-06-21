@@ -14,7 +14,7 @@ def load_cases_prompt() -> str:
         # This includes ID, Title, and Industries for the LLM to analyze
         return "\n".join(
             [
-                f"- Case ID: {row['case_id']}, Title: {row['title']}, Industries: {row['industries']}"
+                f"- Case ID: {row['case_id']}, Status: {row['status']}, Title: {row['title']}, Industries: {row['industries']}, Nationalities: {row['nationalities']}"
                 for _, row in df_cases.iterrows()
             ]
         )
