@@ -585,7 +585,7 @@ HTML_TEMPLATE = '''
             return content
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<em>$1</em>')
-                .replace(/\n/g, '<br>');
+                .replace(/\\n/g, '<br>');
         }
 
         function showTyping() {
