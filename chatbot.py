@@ -41,16 +41,7 @@ Provide detailed, practical advice while maintaining the highest professional st
         """Generate response using Gemini API with arbitration context"""
         
         # Build conversation contents
-        contents = [
-            types.Content(
-                role="user",
-                parts=[types.Part.from_text(text=self.system_prompt)],
-            ),
-            types.Content(
-                role="model",
-                parts=[types.Part.from_text(text="I understand. I'm ready to serve as your strategic co-counsel for arbitration matters. I'll provide expert analysis and guidance while maintaining the highest professional standards. How may I assist you with your arbitration case or strategy today?")],
-            )
-        ]
+        contents =[]
         
         # Add conversation history if available
         if conversation_history:
