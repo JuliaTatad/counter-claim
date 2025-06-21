@@ -1,0 +1,620 @@
+Produce comprehensive precise report satisfying:    
+
+1. Legal source retrieval
+Retrieve all relevant legal sources from Jus Mundi (using available API)
+Strategies need to be backed by legal sources: we will scope down this initiative to only including case law available through the API.
+2. Fact matching
+Measure similarity between user’s facts & prior cases (metadata & semantic similarities).
+Strong strategies are ones that have previous case law that positively support it. Weak strategies are ones that previous case law do not support it.
+Although ALL case law can be relevant, the ones with the most weight are the ones where the elements of the facts are comparable.
+3. Weakness detection
+Based on previous case law opposing this strategy, if there are at least 1, it should be highlighted. Detecting whether a case is supportive or not supportive of the strategy.
+A weakness can be detected if the strategy is usually rejected by tribunals, or the risk that a strong jurisprudence exists that the opponent counsel can use to counter-argue.
+4. UI
+Structured visual output: tabular with columns for retrieved sources.
+Users want to absorb complex info at a glance. They need to compare sources quickly, spot inconsistencies, and justify conclusions easily. Anything from tabular, to the way the information is structured in a particular order, to interactive UI can help (and even more). Be creative!
+5. Legal source breakdown
+Adds additional layered insights to each retrieved case: global summary, each of the parties’ arguments about the topic, the reasoning of the tribunal, how is it cited by others.
+Users want to transparency and depth. They don’t just want the AI’s final conclusion, they want to see the reasoning and supporting evidence so they can evaluate it themselves.
+6. Predictive analysis
+Estimate likely a tribunal’s response and/or chances of succeeding metric
+Users want to assess risk and plan accordingly. They’re looking for informed guidance, not just raw facts. A predictive signal helps them make smarter, faster decisions under uncertainty.
+7. Strategy rewriter
+Suggest stronger or safer version of the strategy, if needed
+Act as a thought partner. User expects support in refining their arguments and exploring alternatives, especially when the stakes are high or the answer is ambiguous.
+
+<USER_QUERY>
+I’m working on a case representing Fenoscadia Limited, a mining company from Ticadia that was operating in Kronos under an 80-year concession to extract lindoro, a rare earth metal. In 2016, Kronos passed a decree that revoked Fenoscadia’s license and terminated the concession agreement, citing environmental concerns. The government had funded a study that suggested lindoro mining contaminated the Rhea River and caused health issues, although the study didn’t conclusively prove this.
+Kronos is now filing an environmental counterclaim in the ongoing arbitration, seeking at least USD 150 million for environmental damage, health costs, and water purification.
+
+Can you help me analyze how to challenge Kronos’s environmental counterclaim, especially in terms of jurisdiction, admissibility, and merits?
+</USER_QUERY>
+
+<CASES>
+CASE_ID: 502
+IDENTIFIER: IDS-310
+TITLE: Burlington v. Ecuador
+CASE_NUMBER: ICSID Case No. ARB/08/5
+
+INDUSTRIES:
+- Energy - Oil & Gas
+- Exploration, extraction and production (upstream)
+
+
+STATUS: Decided in favor of investor
+
+PARTY_NATIONALITIES:
+- Ecuador
+- United States
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Treaty Between the United States of America and the Republic of Ecuador Concerning the Encouragement and Reciprocal Protection of Investments (1993)
+
+
+DECISIONS:
+- TITLE: Decision on Counterclaims
+  TYPE: Counterclaims
+  DATE: 2017-02-07 00:00:00+00:00
+  CONTENT: |
+Here is a structured summary of the findings relevant to your query regarding Kronos's environmental counterclaim:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims based on an agreement between the parties dated May 26, 2011, where Burlington (Fenoscadia) accepted the Tribunal's jurisdiction over these counterclaims and waived its right to pursue them elsewhere.
+    *   The Tribunal also found that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the jurisdiction of the Centre, referencing Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal found that under the applicable Ecuadorian law (the 2008 Constitution and subsequent case law), strict liability applies to environmental harm. In such cases, causation is presumed. Once the claimant (Ecuador) established environmental harm plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or that it was caused by force majeure, a third party (including prior or subsequent operators), or the claimant itself.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports (IEMS, GSI, RPS) and conducted a site visit. It largely discarded IEMS's modeling as unreliable due to methodological issues but relied on GSI's sampling data. However, the Tribunal adjusted GSI's delineation methods for perceived deficiencies (e.g., insufficient samples, reliance on visual inspection, incorrect application of regulatory criteria, potential underestimation of contaminated areas due to methodology). The Tribunal conducted its own site-specific assessments based on available data, site visit observations, and expert opinions, applying Ecuadorian regulations like RAOHE and TULAS.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador claimed substantial damages for environmental remediation, initially seeking over USD 2.7 billion, largely based on restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected Ecuador's "background values" argument, finding that environmental harm is determined by regulatory permissible limits (RAOHE and TULAS). It applied these regulatory criteria, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: The Tribunal calculated remediation costs by determining the impacted area for specific sites, estimating the volume of contaminated soil (often extrapolating from sample depths and considering GSI's methodologies with adjustments), and applying unit remediation costs of USD 300/m3 for *ex situ* treatment (bioremediation, soil washing, or confinement) plus a contingency of 20-30%.
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for the environmental counterclaims, based on detailed site-by-site assessments and, in some cases, partial attribution of liability for historical contamination or failures in remediation efforts.
+
+4.  **Overall Outcome**:
+    *   The Tribunal granted Ecuador's environmental counterclaims in part, awarding **USD 39,199,373**. This award was based on the Tribunal's assessment of specific exceedances, the applicable regulatory limits, and the causation analysis, which often apportioned responsibility or relied on the operator's failure to rebut the presumption of causation.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims based on a specific agreement between the parties dated May 26, 2011. Burlington (Fenoscadia) accepted the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum.
+    *   The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, referencing Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal found that under Ecuadorian law applicable at the time, strict liability applied to environmental harm. In such cases, causation is presumed. Once the claimant (Ecuador) established that environmental harm occurred and was plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or to demonstrate that the harm was caused by force majeure, the claimant (Ecuador), or a third party.
+    *   **Exoneration**: The Tribunal noted that the operator could escape liability by proving the harm was caused by specific exonerating factors, such as prior operators' actions. The Tribunal disagreed with the operator's argument that the claimant had to prove harm occurred *during the operator's tenure*; instead, it found causation presumed, shifting the burden to the operator to *disprove* it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discarded the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). However, the Tribunal adjusted GSI's delineation methods and findings based on its own assessment of the evidence, considering factors like sample location accuracy, the inclusion of clean samples in delineations, and the treatment of different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador claimed substantial damages for environmental remediation, initially seeking over USD 2.7 billion based on restoring sites to "background values" or "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected Ecuador's "background values" claim and determined that environmental harm should be assessed based on regulatory permissible limits (RAOHE and TULAS). It applied these limits, adjusting them for local natural background concentrations where appropriate and considering specific land uses (industrial, agricultural, sensitive ecosystem) on a site-by-site basis.
+    *   **Methodology**: The Tribunal calculated remediation costs by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses, often apportioning liability where the operator failed to rebut the presumption of causation or shared responsibility for historical contamination.
+
+4.  **Overall Outcome**:
+    *   The Tribunal granted Ecuador's environmental counterclaims in part, awarding **USD 39,199,373**. This amount reflects the Tribunal's findings on liability and the quantum of damages for specific sites, after considering the applicable regulations, causation, and evidence regarding the extent and source of contamination.Here's the structured summary based on the provided decision:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, where Burlington (Fenoscadia) explicitly accepted the Tribunal's jurisdiction over the counterclaims and waived its right to bring them before any other forum. The Tribunal also found that the counterclaims arose directly from the subject matter of the dispute and fell within the scope of consent and the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under the applicable Ecuadorian law, specifically the 2008 Constitution and subsequent case law, strict liability applies to environmental harm. Consequently, causation is presumed. Once the claimant (Ecuador) demonstrated that environmental harm occurred and was plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or to establish that the harm was caused by force majeure, the claimant (Ecuador), or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm was caused by prior operators. It rejected the operator's argument that the claimant had to prove harm occurred *during the operator's tenure*; instead, it found causation presumed, and the burden was on the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discarded the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). However, the Tribunal adjusted GSI's findings based on its own analysis of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, primarily based on restoring sites to "background values" or, alternatively, to "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected Ecuador's claim based on "background values." It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil (often using GSI's data with adjustments based on the Tribunal's analysis), and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal ultimately awarded Ecuador **USD 39,199,373** for environmental counterclaims, based on specific site assessments and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal granted Ecuador's environmental counterclaims in part, awarding **USD 39,199,373**. This amount reflected the Tribunal's detailed analysis of the evidence, the applicable legal standards, and the specific circumstances of each site, including apportioning liability where multiple factors may have contributed to the environmental condition.
+    *   In addition to the environmental counterclaims, the Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award of **USD 41,776,492.77** to Ecuador concerning all counterclaims. The Tribunal also noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.The decision in *Burlington v. Ecuador* concerns counterclaims made by Ecuador against Burlington Resources Inc. regarding environmental and infrastructure damage. While the user's query involves a mining company (Fenoscadia) from Ticadia operating in Kronos, the case details provided are from an oil and gas dispute between Burlington (an investor) and Ecuador (the state). However, the analysis of jurisdiction, causation, quantum, and overall outcome regarding environmental counterclaims is highly relevant for understanding how such claims are handled in investment arbitration.
+
+Here's the breakdown based on the requested topics:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's counterclaims. This jurisdiction was established through a specific agreement between the parties dated May 26, 2011, where Burlington explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them elsewhere. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute and fell within the scope of consent and the Centre's jurisdiction, as per Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal found that under Ecuadorian law, strict liability applied to environmental harm. In such cases, causation is presumed. Once the claimant (Ecuador) demonstrated environmental harm plausibly linked to the operator's activities, the burden shifted to the operator (Burlington) to prove the absence of harm or that it was caused by force majeure, the claimant, or a third party. The Tribunal rejected the operator's argument that the claimant needed to prove harm occurred specifically *during the operator's tenure*; instead, it found causation presumed, placing the burden on the operator to rebut this presumption by proving the harm originated from prior operators.
+    *   **Evidence Treatment**: The Tribunal conducted a detailed analysis of expert evidence and site visit observations. It largely discounted the modeling methodology of one expert (IEMS) due to perceived unreliability and methodological flaws but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample locations, land use classifications (industrial, agricultural, sensitive ecosystem), and the correct application of Ecuadorian regulations (RAOHE and TULAS).
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador's initial claim for soil remediation was substantial, exceeding USD 2.7 billion, based on restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" approach, determining that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. It applied these limits, adjusting them for local natural background concentrations and considering the specific land use of each site.
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador **USD 39,199,373** for environmental counterclaims. This award resulted from detailed site-specific analyses and a partial attribution of liability, considering the contributions of prior operators and the operator's (Consortium's) management practices.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This amount was significantly less than Ecuador's initial broad claim but represented a substantial award based on the Tribunal's detailed findings regarding specific sites, causation, and the applicable regulatory framework.
+    *   In addition to environmental claims, the Tribunal also addressed infrastructure counterclaims, ultimately awarding Ecuador a total of **USD 41,776,492.77** across all counterclaims. The Tribunal also noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which was consistent with the parties' prior agreement.Here is the structured summary of the findings relevant to your query regarding Kronos's environmental counterclaim:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly accepted the Tribunal's jurisdiction over these counterclaims and waived its right to pursue them elsewhere. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law, strict liability applies to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established that environmental harm occurred and was plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or to demonstrate that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal found that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant had to prove harm occurred specifically *during its tenure*; instead, causation was presumed, shifting the burden to the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed expert reports and conducted a site visit. It largely discarded the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering sample locations, land use classifications, and the correct application of Ecuadorian regulations (RAOHE and TULAS).
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador claimed substantial damages for environmental remediation, initially seeking over USD 2.7 billion based on restoring sites to "background values" or "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" approach. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS, adjusted for local natural background concentrations and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims, based on detailed site-specific analyses and findings on liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This represented a significant portion of the claim, based on the Tribunal's detailed review of the evidence and application of Ecuadorian environmental law.
+    *   In addition to the environmental claims, the Tribunal also awarded amounts for infrastructure counterclaims, resulting in a total award to Ecuador of **USD 41,776,492.77** regarding all counterclaims. The Tribunal noted the parties' prior agreement to limit the scope of the arbitration to the claims presented.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law applicable at the time, strict liability governed environmental harm, meaning causation was presumed. Once the claimant (Ecuador/Kronos) demonstrated that environmental harm occurred and was plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or to establish that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant needed to prove harm occurred specifically *during its tenure*; instead, it found causation presumed, placing the burden on the operator to rebut this presumption by proving the harm originated from prior operators.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discarded the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected Ecuador's "background values" claim. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This outcome reflected the Tribunal's findings on liability and the quantum of damages after considering the applicable regulations, causation, and evidence.
+    *   The Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77** concerning all counterclaims. It noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law, strict liability applied to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established that environmental harm occurred and was plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or to demonstrate that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant needed to prove harm occurred specifically *during its tenure*; instead, it found causation presumed, shifting the burden to the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discounted the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" claim. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This amount reflected the Tribunal's detailed review of the evidence and application of Ecuadorian environmental law.
+    *   In addition to environmental claims, the Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77** concerning all counterclaims. The Tribunal noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was established through a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law, strict liability applied to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established environmental harm plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant needed to prove harm occurred specifically *during its tenure*; instead, it found causation presumed, shifting the burden to the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discounted the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" claim. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This amount reflected the Tribunal's detailed review of the evidence and application of Ecuadorian environmental law.
+    *   The Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77** regarding all counterclaims. It noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law, strict liability applied to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established environmental harm plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant needed to prove harm occurred specifically *during its tenure*; instead, it found causation presumed, shifting the burden to the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discounted the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" claim. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This amount reflected the Tribunal's detailed review of the evidence and application of Ecuadorian environmental law.
+    *   The Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77** concerning all counterclaims. It noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.Here is the structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This jurisdiction was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) explicitly consented to the Tribunal's jurisdiction over these counterclaims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute, were within the scope of the parties' consent, and fell within the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Burden of Proof**: The Tribunal determined that under Ecuadorian law, strict liability applied to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established environmental harm plausibly linked to the operator's risky activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or that it was caused by force majeure, the claimant, or a third party.
+    *   **Rebuttal of Causation**: The Tribunal noted that the operator could escape liability by proving the harm originated from prior operators. It rejected the operator's argument that the claimant needed to prove harm occurred specifically *during its tenure*; instead, it found causation presumed, shifting the burden to the operator to disprove it for prior acts.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert reports and conducted a site visit. It largely discounted the modeling methodology of one expert (IEMS) due to reliability issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the definition of impacted areas, and the correct application of Ecuadorian regulations (RAOHE and TULAS) for different land uses.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Ecuador's Claim**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or, alternatively, "sensitive ecosystem" standards.
+    *   **Tribunal's Finding**: The Tribunal rejected the "background values" claim. It determined that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. The Tribunal applied these limits, adjusting them for local natural background concentrations where appropriate and considering the specific land use of each site (industrial, agricultural, or sensitive ecosystem).
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Awarded Amount**: The Tribunal awarded Ecuador a total of **USD 39,199,373** for environmental counterclaims. This award was based on detailed site-specific analyses and findings regarding liability and causation.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's environmental counterclaims, awarding **USD 39,199,373**. This amount reflected the Tribunal's detailed review of the evidence and application of Ecuadorian environmental law.
+    *   The Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77** regarding all counterclaims. It noted Burlington's request for a declaration limiting its liability to the assessed exceedances, which aligned with the parties' prior agreement on the scope of the arbitration.
+
+**Summary of Findings:**
+
+1.  **Jurisdiction over Counterclaim**: The Tribunal accepted jurisdiction over Kronos's (Ecuador's) counterclaims based on a specific party agreement, confirming its authority to decide these claims.
+
+2.  **Merits of Counterclaim - Causation**: The Tribunal found that under Ecuadorian law, strict liability applied, presuming causation. Once environmental harm was established, the burden shifted to the operator (Fenoscadia) to prove the absence of harm or that it was caused by prior operators. The Tribunal considered expert evidence and site-specific factors, largely dismissing one expert's modeling due to unreliability but relying on and adjusting the sampling data of another.
+
+3.  **Merits of Counterclaim - Quantum**: Ecuador's initial claim of over USD 2.7 billion for environmental remediation was rejected as excessively high. The Tribunal determined that regulatory limits, not "background values," were the applicable standard. It calculated remediation costs based on specific site conditions, land use, adjusted regulatory limits, and applied a methodology of unit costs plus contingency. The Tribunal awarded **USD 39,199,373** for environmental remediation.
+
+4.  **Overall Outcome**: The Tribunal ruled in favor of Kronos on its environmental counterclaims, awarding **USD 39,199,373**. This decision was based on the Tribunal's findings regarding jurisdiction, the operator's liability under strict liability principles, and its assessment of the quantum of damages based on specific site conditions and applicable regulations. The total award for all counterclaims (environmental and infrastructure) was **USD 41,776,492.77**.1.  **Jurisdiction over Counterclaim**:
+    *   Yes, the Tribunal accepted jurisdiction over Ecuador's (Kronos') counterclaims. This was based on a specific agreement between the parties dated May 26, 2011, wherein Burlington (Fenoscadia) accepted the Tribunal's jurisdiction over these claims and waived its right to bring them before any other forum. The Tribunal also confirmed that the counterclaims arose directly from the subject matter of the dispute and fell within the scope of consent and the Centre's jurisdiction, consistent with Article 46 of the ICSID Convention.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Finding on Causal Link**: The Tribunal determined that under Ecuadorian law, strict liability applied to environmental harm, meaning causation is presumed. Once the claimant (Ecuador/Kronos) established environmental harm plausibly linked to the operator's activities, the burden shifted to the operator (Burlington/Fenoscadia) to prove the absence of harm or that it was caused by force majeure, the claimant, or a third party. The Tribunal found that the operator failed to rebut this presumption for many of the alleged harms.
+    *   **Standard of Proof**: The standard of proof was that the claimant needed to establish harm plausibly linked to the operator's activities; thereafter, the operator bore the burden to *disprove* causation for prior acts or demonstrate exonerating circumstances.
+    *   **Evidence Treatment**: The Tribunal analyzed extensive expert evidence and site visit observations. It largely discounted the modeling methodology of one expert (IEMS) due to reliability and methodological issues but relied on the sampling data of another expert (GSI). The Tribunal adjusted GSI's findings based on its own assessment of the evidence, considering factors like sample location accuracy, the correct application of Ecuadorian regulations (RAOHE and TULAS), and site-specific land use classifications.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Assessment of Damages**: Ecuador initially claimed over USD 2.7 billion for soil remediation, advocating for restoring sites to "background values" or "sensitive ecosystem" standards. The Tribunal rejected the "background values" approach, determining that environmental harm should be assessed against regulatory permissible limits defined in RAOHE and TULAS. It applied these limits, adjusted for local natural background concentrations and specific land uses.
+    *   **Methodology**: Remediation costs were calculated by determining the impacted area for specific sites, estimating the volume of contaminated soil, and applying unit remediation costs (USD 300/m3 for *ex situ* treatment) plus a contingency (20-30%).
+    *   **Claimed vs. Awarded Amounts**: The Tribunal awarded Ecuador **USD 39,199,373** for environmental counterclaims. This was a partial grant, significantly less than the initial claim but substantial, based on the Tribunal's specific findings on liability and the quantum of damages for individual sites.
+
+4.  **Overall Outcome**:
+    *   The Tribunal partially granted Ecuador's (Kronos') environmental counterclaims, awarding **USD 39,199,373**. This award reflected the Tribunal's detailed analysis of the evidence, the applicable legal standards, and the specific factual circumstances of each alleged instance of environmental harm. In addition to environmental claims, the Tribunal also awarded amounts for infrastructure counterclaims, leading to a total award to Ecuador of **USD 41,776,492.77**. The Tribunal also noted the parties' prior agreement that this arbitration would provide final resolution for the counterclaims, thereby limiting further actions.
+- TITLE: Decision on Reconsideration and Award
+  TYPE: Award (Final)
+  DATE: 2017-02-07 00:00:00+00:00
+  CONTENT: |
+**1. Jurisdiction over Counterclaim**
+The tribunal accepted jurisdiction over Ecuador's counterclaims because the parties later entered into an agreement conferring jurisdiction over them, as recounted in Procedural Order No. 8 dated 21 July 2011.
+
+**2. Merits of Counterclaim - Causation**
+The provided DECISION text, which focuses on the Award concerning the main claims and reconsideration, does not contain findings on the merits of Ecuador's counterclaims regarding causation, the standard of proof, or the treatment of evidence like expert reports for those counterclaims.
+
+**3. Merits of Counterclaim - Quantum**
+The provided DECISION text does not contain findings on the quantum of Ecuador's counterclaims, including the methodology used or specific amounts awarded versus claimed.
+
+**4. Overall Outcome**
+The provided DECISION text states that a "Decision on Counterclaims" was issued and made an integral part of the Award. However, the specific outcome or ruling on Ecuador's counterclaims is not detailed within this text. Ecuador's submissions on costs suggest it considered itself the prevailing party on its counterclaims, but the Tribunal's findings on the counterclaim's outcome are not presented.
+
+
+
+CASE_ID: 402
+IDENTIFIER: IDS-417
+TITLE: Renco v. Peru (I)
+CASE_NUMBER: ICSID Case No. UNCT/13/1
+
+INDUSTRIES:
+- Mining
+- Metal ores
+
+
+STATUS: Decided in favor of State
+
+PARTY_NATIONALITIES:
+- Peru
+- United States
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- UNCITRAL (The United Nations Commission on International Trade Law) Arbitration Rules (2010)
+
+
+APPLICABLE_TREATIES:
+- Free Trade Agreement Between the United States of America and Peru (2006)
+
+
+DECISIONS:
+
+
+
+CASE_ID: 573
+IDENTIFIER: IDS-263
+TITLE: Urbaser v. Argentina
+CASE_NUMBER: ICSID Case No. ARB/07/26
+
+INDUSTRIES:
+- Water, Sanitation & Waste
+- Water management and supply
+- Sewerage
+
+
+STATUS: Decided in favor of neither Party
+
+PARTY_NATIONALITIES:
+- Argentina
+- Spain
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Agreement Between the Argentine Republic and the Kingdom of Spain on the Reciprocal Promotion and Protection of Investments (1991)
+
+
+DECISIONS:
+
+
+
+CASE_ID: 482
+IDENTIFIER: IDS-356
+TITLE: Pac Rim v. El Salvador
+CASE_NUMBER: ICSID Case No. ARB/09/12
+
+INDUSTRIES:
+- Mining
+- Metal ores
+
+
+STATUS: Decided in favor of State
+
+PARTY_NATIONALITIES:
+- El Salvador
+- United States
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Free Trade Agreement Between Central America, the Dominican Republic and the United States of America (CAFTA) (2004)
+
+
+DECISIONS:
+
+
+
+CASE_ID: 505
+IDENTIFIER: IDS-304
+TITLE: Clayton/Bilcon v. Canada
+CASE_NUMBER: PCA Case No. 2009-04
+
+INDUSTRIES:
+- Mining
+
+
+STATUS: Pending
+
+PARTY_NATIONALITIES:
+- Canada
+- United States
+
+
+INSTITUTION: PCA - Permanent Court of Arbitration
+
+RULES_OF_ARBITRATION:
+- UNCITRAL (United Nations Commission on International Trade Law) Arbitration Rules (1976)
+
+
+APPLICABLE_TREATIES:
+- North American Free Trade Agreement (1992)
+
+
+DECISIONS:
+- TITLE: Award on Damages
+  TYPE: Compensation
+  DATE: 2019-01-10 00:00:00+00:00
+  CONTENT: |
+**1. Jurisdiction over Counterclaim**:
+NOT RELEVANT. The provided DECISION_CONTENT is from an award concerning the investors' claim against Canada and does not contain any ruling or discussion regarding the jurisdiction over a counterclaim filed by Canada.
+
+**2. Merits of Counterclaim - Causation**:
+The provided text extensively analyzes causation in the context of the investors' claim, offering principles relevant to challenging a counterclaim:
+*   **Standard of Proof**: Establishing causation requires proof "in all probability" or "with a sufficient degree of certainty" that the alleged injury would have been averted if the respondent had complied with its obligations.
+*   **Causal Link**: The tribunal found that the investors failed to prove the necessary causal link for claims of lost profits, deeming it too speculative to conclude with sufficient certainty that the project would have obtained regulatory approval and achieved profitability. Compensation was awarded for the loss of the *opportunity* to have the project assessed fairly, rather than for the speculative lost profits themselves.
+*   **Expert Evidence**: Expert reports were crucial for arguments on causation, with the tribunal critically assessing conflicting opinions and methodologies presented by parties.
+
+**3. Merits of Counterclaim - Quantum**:
+The provided text details the tribunal's assessment of damages for the investors' claim, outlining principles applicable to challenging the quantum of an environmental counterclaim:
+*   **Damage Assessment**: The tribunal rejected claims for lost profits as too speculative due to uncertainties surrounding regulatory approval and future profitability. Compensation was awarded for the value of the lost opportunity to undergo a fair and non-arbitrary assessment process.
+*   **Methodology**: The tribunal considered various valuation methods proposed by experts (e.g., Discounted Cash Flow for lost profits) but based its award on the value of the lost opportunity, quantified by reference to expenditures and market transactions.
+*   **Burden of Proof**: The claimant must prove causation and quantify damages with sufficient certainty. Speculative claims for future profits were not awarded.
+*   **Expert Evidence**: Expert reports were used to project revenues, costs, market conditions, and risks. The tribunal reviewed these to assess the reliability of quantum calculations, ultimately finding key investor claims too speculative for an award.
+
+**4. Overall Outcome**:
+NOT RELEVANT. The provided DECISION_CONTENT details the outcome of the *Clayton/Bilcon v. Canada* arbitration regarding the investors' claim and does not contain any information about the outcome of an environmental counterclaim filed by Kronos against Fenoscadia Limited.
+
+
+
+CASE_ID: 71
+IDENTIFIER: IDS-705
+TITLE: Glencore v. Colombia (I)
+CASE_NUMBER: ICSID Case No. ARB/16/6
+
+INDUSTRIES:
+- Mining
+- Coal and lignite
+
+
+STATUS: Decided in favor of investor
+
+PARTY_NATIONALITIES:
+- Colombia
+- Switzerland
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Agreement Between the Republic of Colombia and the Swiss Confederation on the Promotion and Reciprocal Protection of Investments (2006)
+
+
+DECISIONS:
+
+
+
+CASE_ID: 525
+IDENTIFIER: IDS-317
+TITLE: Perenco v. Ecuador
+CASE_NUMBER: ICSID Case No. ARB/08/6
+
+INDUSTRIES:
+- Energy - Oil & Gas
+- Exploration, extraction and production (upstream)
+
+
+STATUS: Decided in favor of investor
+
+PARTY_NATIONALITIES:
+- Bahamas
+- Ecuador
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Agreement Between the Government of the French Republic and the Government of the Republic of Ecuador on the Reciprocal Protection and Encouragement of Investments (1994)
+
+
+DECISIONS:
+- TITLE: Interim Decision on the Environmental Counterclaim
+  TYPE: Award (Interim)
+  DATE: 2015-08-11 00:00:00+00:00
+  CONTENT: |
+Here is a structured summary of the findings relevant to your query:
+
+1.  **Jurisdiction over Counterclaim**:
+    *   The decision addresses Ecuador's environmental counterclaim, indicating it was admitted for consideration.
+    *   This specific interim decision does not detail the tribunal's reasoning for accepting jurisdiction over the counterclaim itself, nor does it mention specific jurisdictional tests like a "close connection" test in relation to the counterclaim.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   **Causation is critical**: The tribunal found that causation remains a critical element for liability under both fault-based and strict liability regimes under Ecuadorian law. It rejected Ecuador's argument that causation was irrelevant.
+    *   **Presumption of Causation**: Under the post-October 2008 strict liability regime of the 2008 Constitution, the tribunal agreed that showing environmental harm in the area of operation and the operator's presence would trigger a presumption of causation, shifting the burden to the operator (Perenco) to disprove it or prove exceptions.
+    *   **Pre-2008 Regime**: For the period before the 2008 Constitution, a fault-based regime applied. Perenco could avoid liability by demonstrating compliance with its duty of care or proving that another party caused the harm. The tribunal indicated Ecuadorian case law prior to 2008 created a strong rebuttable presumption of operator responsibility for damage from hazardous activities, shifting the burden to the operator.
+    *   **Expert Evidence**: The tribunal found the existing expert evidence (IEMS, GSI, RPS) insufficient to definitively determine causation or the extent of contamination, noting flaws in both parties' methodologies (IEMS's modelling and "background values" approach; GSI's limited scope and use of "indicator parameters").
+    *   **Further Investigation**: The tribunal reserved a final decision on causation and the extent of damage, deciding to appoint an independent expert to conduct further sampling and analysis.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   **Conflicting Estimates**: Ecuador's expert (IEMS) estimated remediation costs in the hundreds of millions of USD, while Perenco's expert (GSI) provided a significantly lower estimate (under US$10 million).
+    *   **Rejection of IEMS's Methodology**: The tribunal rejected IEMS's methodology for calculating contamination volumes and its cost estimates as unrealistic and unsupported.
+    *   **Reservation of Decision**: The tribunal explicitly reserved its decision on the quantum of damages, stating that a final determination would await the findings of the independent expert it appointed. It indicated that the final award would likely be substantially less than Ecuador's claimed amount.
+
+4.  **Overall Outcome**:
+    *   This decision is an **Interim Decision on the Environmental Counterclaim**, not a final award.
+    *   The tribunal **appointed an independent environmental expert** to conduct further fact-finding (resampling, delineation, analysis of mud pits and groundwater) to resolve conflicting evidence and determine the extent of Perenco's liability and the quantum of damages.
+    *   The tribunal found **Perenco's environmental management practices to be lacking**, rejecting claims of exemplary compliance.
+    *   It ruled that **RAOHE and TULAS, not "background values," provide the applicable regulatory standards**, and that GSI's use of "indicator parameters" was flawed.
+    *   The tribunal rejected Perenco's **time-bar defence**.
+    *   It found Perenco strictly liable for post-2008 contamination and liable under a fault-based regime for pre-2008 contamination, subject to Perenco proving specific exceptions or lack of fault/causation.
+    *   Perenco's liability is limited to **regulatory exceedances predating Petroamazonas's takeover and not overtaken by Petroamazonas's subsequent activities**.
+- TITLE: Decision on Claimant’s Application for Dismissal of Ecuador's Counter-claims
+  TYPE: Counterclaims
+  DATE: 2017-08-18 00:00:00+00:00
+  CONTENT: |
+1.  **Jurisdiction over Counterclaim**:
+    *   Did the tribunal accept jurisdiction over the state's counterclaim? Yes, the tribunal implicitly maintained jurisdiction by rejecting Perenco's application to dismiss the counterclaim. It noted that Perenco had not previously raised objections to the tribunal's jurisdiction over the counterclaims.
+    *   What was the reasoning? The primary reasoning for rejecting the dismissal application was the uncertainty surrounding the *res judicata* effect of the *Burlington* award due to pending annulment proceedings. The tribunal also referred to its own Interim Decision on the Environmental Counterclaim, which indicated it had previously considered the counterclaim admissible and within its jurisdiction.
+
+2.  **Merits of Counterclaim - Causation**:
+    *   What was the tribunal's finding on the causal link between the investor's actions and the alleged damage? This decision does not contain findings on the causal link or the merits of the counterclaim. The tribunal noted it had appointed an expert and would continue its work on the counterclaim.
+    *   What was the standard of proof required? The standard of proof was not addressed in this decision.
+    *   How was evidence like expert reports treated? Expert reports were referenced as part of the parties' arguments and the proceedings, particularly in relation to differing evidence presented in parallel arbitrations. The Tribunal also noted its own expert's work was ongoing, but no findings regarding the merits based on expert reports are made in this decision.
+
+3.  **Merits of Counterclaim - Quantum**:
+    *   How did the tribunal assess the damages claimed by the state? The tribunal did not assess the damages claimed by the state in this decision.
+    *   Did it accept the claimed amount? No.
+    *   What methodology did it use? No methodology was used or stated in this decision.
+    *   State the amounts claimed vs. awarded if available: No amounts were awarded in this decision.
+
+4.  **Overall Outcome**:
+    *   The Tribunal rejected Perenco's Application for Dismissal of Ecuador's Counterclaims. The counterclaim remains admissible and will continue to be considered by the Tribunal.
+- TITLE: Award
+  TYPE: Award (Final)
+  DATE: 2019-09-27 00:00:00+00:00
+  CONTENT: |
+**Jurisdiction over Counterclaim**
+*   **Accepted Jurisdiction**: Yes, the Tribunal explicitly rejected Perenco's second dismissal application, confirming its jurisdiction to entertain the counterclaim against Perenco even though a similar counterclaim was being addressed in parallel proceedings (*Burlington* arbitration). The Tribunal relied on its prior decisions establishing jurisdiction and its mandate to proceed with the counterclaim, including the appointment of an independent expert.
+
+**Merits of Counterclaim - Causation**
+*   **Causal Link**: The Tribunal established a *prima facie* liability for Perenco for any regulatory exceedances identified, viewing them as indicative of operational failures and a breach of duty of care. Perenco could rebut this presumption by proving *force majeure*, demonstrating adherence to the standard of care, or showing that another party caused the harm.
+*   **Attribution of Responsibility**: The Tribunal allocated responsibility for contamination based on Perenco's operatorship duration, the type of contaminant (e.g., barium linked to drilling, TPH to operational releases), Perenco's use of mud pits and wells, evidence of spills, and the activities of prior operators and Petroamazonas. A time-weighted allocation was often used for layered contamination. Perenco was held liable for contamination linked to its own mud pits and wells.
+*   **Standard of Proof**: Ecuador bore the initial burden to prove Perenco caused the harm. However, the Tribunal applied a *prima facie* presumption of Perenco's liability for exceedances found, shifting the burden to Perenco to rebut this.
+*   **Expert Evidence**: The Tribunal found the Independent Expert's (Mr. MacDonald) work proficient and largely accepted his technical findings, although it adjusted his cost estimates based on Perenco's arguments regarding prior operators, Petroamazonas, and its own methodology criticisms. The Tribunal largely accepted the Expert's approach to site characterization, delineation, and mud pit/groundwater sampling criteria despite Perenco's objections.
+
+**Merits of Counterclaim - Quantum**
+*   **Methodology**: The Tribunal allocated responsibility for the Independent Expert's estimated remedial costs (totaling US$159,881,000) based on Perenco's share of causation and operatorship. It also adjusted the final quantum to avoid double recovery with the *Burlington* award, deducting the amount already paid by Burlington for similar environmental harms.
+*   **Amounts**: After allocation and adjustments for double recovery, Perenco was ultimately held liable for US$54,439,517 for the environmental counterclaim. Ecuador's initial claim was significantly higher (over US$2.5 billion).
+
+**Overall Outcome**
+*   Perenco Ecuador Limited was ordered to pay the Republic of Ecuador US$54,439,517.00 for environmental remediation costs, after adjustments for Perenco's share of responsibility and to avoid double recovery from the *Burlington* settlement.
+- TITLE: Decision on Annulment
+  TYPE: Annulment
+  DATE: 2021-05-28 00:00:00+00:00
+  CONTENT: |
+**1. Jurisdiction over Counterclaim**:
+The provided text, the Decision on Annulment, references an "Interim Decision on the Environmental Counterclaim dated August 11, 2015" but does not detail the original tribunal's acceptance of jurisdiction over Ecuador's environmental counterclaim or the specific reasoning for that acceptance. The subsequent discussion in the Annulment Decision focuses on grounds for annulment related to the merits and damages of the counterclaim as decided in the Award, not the initial jurisdictional ruling.
+
+**2. Merits of Counterclaim - Causation**:
+*   **Causation Finding**: The Tribunal, in its earlier "Decision on the Environmental Counterclaim," was "satisfied that there has been some damage for which it seems likely that Perenco is liable" but needed further fact-finding, indicating a preliminary view that Perenco's actions were likely linked to some damage (para 211).
+*   **Standard of Proof**: For Perenco to be held liable under a fault-based regime (applicable to damage predating the 2008 Constitution), it had to prove, by a preponderance of evidence, an occurrence of a *force majeure* event, that it did not fall below the requisite duty of care, or that some other party caused the harm (para 605).
+*   **Treatment of Evidence/Causation Analysis**: The Tribunal limited Perenco's liability to mud pits Perenco itself built or used, not those from prior operators unless Perenco also used them or caused subsequent damage. This was based on an interpretation of Ecuadorian law focusing on Perenco's direct actions or omissions and the principle of causation. The Tribunal extensively analyzed the legal framework and evidence, including expert reports, to allocate responsibility, distinguishing between Perenco's activities and those of predecessors or Petroamazonas, often using a "time-based weighting system" or causation principles (para 605, 634, 649-673). The Annulment Committee found the Tribunal provided reasons for this approach, rejecting Ecuador's claim of failure to state reasons on this point (para 611, 616).
+
+**3. Merits of Counterclaim - Quantum**:
+*   **Assessment of Damages**: The Annulment Decision primarily discusses the impact of findings on Perenco's overall award, rather than specific amounts awarded *to Ecuador* for its counterclaim.
+*   **Perenco's Net Liability**: Perenco's assessed liability for environmental damage was calculated at US$93,638,890. This was reduced by Burlington's payment of US$39,199,373 to avoid double recovery, resulting in Perenco's net liability for environmental damage of US$54,439,517 (para 702). This figure represents the amount Perenco would owe Ecuador for environmental damage.
+*   **Ecuador's Claims**: Ecuador's arguments for increasing Perenco's liability by annulling deductions related to prior operators or Petroamazonas were generally rejected by the Annulment Committee (paras 591, 595, 640, 644). The provided text does not state the specific quantum Ecuador originally claimed for its environmental counterclaim.
+
+**4. Overall Outcome**:
+*   The Annulment Decision indicates that most of Ecuador's grounds for challenging the Tribunal's findings related to counterclaims were rejected (para 739).
+*   The Tribunal's findings limiting Perenco's liability to mud pits it built or used and its method of apportioning liability between Perenco, Petroamazonas, and prior operators were largely upheld by the Annulment Committee (paras 591, 640, 648).
+*   The text implies Perenco was found liable to some extent for environmental damage, as it calculates Perenco's net liability for this as US$54,439,517 (para 702). However, the Annulment Decision does not explicitly state the final outcome of Ecuador's environmental counterclaim as decided in the original arbitration, focusing instead on whether grounds for annulment existed for the Tribunal's findings related to it.
+
+
+
+CASE_ID: 357
+IDENTIFIER: IDS-463
+TITLE: Tethyan Copper v. Pakistan
+CASE_NUMBER: ICSID Case No. ARB/12/1
+
+INDUSTRIES:
+- Mining
+- Metal ores
+
+
+STATUS: Decided in favor of investor
+
+PARTY_NATIONALITIES:
+- Australia
+- Pakistan
+
+
+INSTITUTION: ICSID - International Centre for Settlement of Investment Disputes
+
+RULES_OF_ARBITRATION:
+- ICSID (International Centre for Settlement of Investment Disputes) Rules of Procedure for Arbitration Proceedings (2006)
+
+
+APPLICABLE_TREATIES:
+- Agreement between Australia and the Islamic Republic of Pakistan on the Promotion and Protection of Investments
+
+
+DECISIONS:
+
+
+</CASES>
+
+REMEMBER: do NOT start your report with "Of course. Here is a report...", get straight to the report.

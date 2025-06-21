@@ -1,6 +1,53 @@
+# pip install google-genai dotenv tqdm
+# python -m venv .venv
+
+
 import json
 from dataclasses import dataclass
 from typing import List, Optional
+
+from dotenv import load_dotenv
+import os
+from google import genai
+from google.genai import types
+from tqdm import tqdm
+
+import csv
+from case import list_cases, load_case_json
+
+load_dotenv()
+gemini_client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+
+def llm(prompt: str, big_model: bool = False) -> str:
+    model = "gemini-2.5-pro" if big_model else "gemini-2.5-flash"
+    contents = [
+        types.Content(
+            role="user",
+            parts=[
+                types.Part.from_text(text=prompt),
+            ],
+        ),
+    ]
+    generate_content_config = types.GenerateContentConfig(
+        thinking_config = types.ThinkingConfig(
+            thinking_budget=-1,
+        ),
+        response_mime_type="text/plain",
+    )
+
+    response_text = ''
+    stream = gemini_client.models.generate_content_stream(
+        model=model,
+        contents=contents,
+        config=generate_content_config,
+    )
+    
+    with tqdm(unit='token', unit_scale=True, desc=f"Calling {model}") as pbar:
+        for chunk in stream:
+            response_text += chunk.text
+            pbar.update(len(chunk.text))
+            
+    return response_text
 
 @dataclass
 class Opinion:
@@ -93,4 +140,31 @@ def load_all_cases_to_csv(directory_path: str, output_csv_path: str):
         writer.writerows(all_cases)
     print(f"Successfully created {output_csv_path}")
 
-load_all_cases_to_csv('data\jus_mundi_hackathon_data\cases', 'cases.csv')
+from case import list_cases, load_case_json
+
+#load_all_cases_to_csv('data\jus_mundi_hackathon_data\cases', 'cases.csv')
+print(llm(prompt="hello"))
+
+def process_all_cases():
+    """
+    Loads all cases from the data directory, extracts relevant data,
+    and saves it as a CSV file named cases.csv, sorted by industry.
+    """
+
+    cases_data = []
+    for case_id in tqdm(list_cases()):
+        case = load_case_json(case_id=case_id)
+        industries_str = ", ".join(case.industries)
+        party_nationalities_str = ", ".join(case.party_nationalities)
+        cases_data.append(
+            [case_id, case.status, party_nationalities_str, case.title, industries_str]
+        )
+
+    with open("cases.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["ID", "Status", "Nationalities", "Title", "Industries"])
+        writer.writerows(cases_data)
+
+
+if __name__ == "__main__":
+    process_all_cases()
