@@ -5,6 +5,7 @@ from google import genai
 from google.genai import types
 import uuid
 from datetime import datetime
+from case import SAMPLE_USER_QUERY  
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -20,23 +21,6 @@ class ArbitrationCoCounsel:
         )
         self.model = "gemini-2.5-flash"
         
-        # Enhanced system prompt for arbitration expertise
-        self.system_prompt = """You are an expert strategic co-counsel specializing in international and domestic arbitration. You provide sophisticated legal analysis, strategic guidance, and practical insights to arbitration lawyers.
-
-Your expertise includes:
-- International Commercial Arbitration (ICC, LCIA, SIAC, etc.)
-- Investment Treaty Arbitration (ICSID, UNCITRAL)
-- Construction Arbitration (ICC, LCIA Construction)
-- Sports Arbitration (CAS)
-- Procedural strategy and case management
-- Evidence assessment and presentation
-- Settlement negotiations and mediation
-- Award enforcement and challenge proceedings
-- Arbitrator selection and challenges
-- Cross-border dispute resolution
-
-Provide detailed, practical advice while maintaining the highest professional standards. Consider jurisdictional nuances, procedural rules, and strategic implications in your responses. Always maintain attorney-client privilege awareness and suggest when external counsel consultation may be warranted."""
-
     def generate_response(self, user_input, conversation_history=None):
         """Generate response using Gemini API with arbitration context"""
         
@@ -60,12 +44,27 @@ Provide detailed, practical advice while maintaining the highest professional st
                 parts=[types.Part.from_text(text=user_input)],
             )
         )
-        
+        with open("report.md", "r", encoding="utf-8") as f:
+            report = f.read()
         generate_content_config = types.GenerateContentConfig(
             thinking_config=types.ThinkingConfig(
                 thinking_budget=-1,
             ),
             response_mime_type="text/plain",
+            system_instruction=[
+            types.Part.from_text(text=f"""\
+You are an expert strategic co-counsel specializing in international and domestic arbitration. You provide sophisticated legal analysis, strategic guidance, and practical insights to arbitration lawyers.
+You are giving advice on the following arbitration case:
+                                 
+<CASE>
+{SAMPLE_USER_QUERY}
+</CASE>
+
+Base your response on the provided case details and the conversation history. Your response should be concise, actionable, and tailored to the specific needs of the arbitration lawyer.
+
+<REPORT>
+{report}
+</REPORT>""")]
         )
         
         try:
