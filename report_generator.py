@@ -107,7 +107,7 @@ def create_chart(results, metrics):
     
     return fig
 
-def generate_html_report(fig, metrics):
+def generate_html_report(fig, metrics, tribunal_stance, jurisdiction_strength, causation_confidence, evidence_quality, precedent_strength, damages_credibility):
     """Generates an HTML report with the chart and metrics."""
     
     def get_metric_color(value, thresholds):
@@ -124,42 +124,180 @@ def generate_html_report(fig, metrics):
     <head>
         <meta charset="UTF-8">
         <title>Python Simulation Report</title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
         <style>
-            body {{ font-family: 'Segoe UI', sans-serif; background-color: #f4f7f6; color: #333; }}
-            .container {{ max-width: 900px; margin: 40px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }}
-            h1 {{ color: #2c3e50; }}
-            .metrics-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }}
-            .metric-card {{ background: #fdfdfd; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }}
-            .metric-label {{ font-size: 0.9rem; color: #7f8c8d; margin-bottom: 8px; }}
-            .metric-value {{ font-size: 2rem; font-weight: 700; }}
-            .metric-value.success {{ color: #27ae60; }}
-            .metric-value.warning {{ color: #f39c12; }}
-            .metric-value.danger {{ color: #e74c3c; }}
+            body {{
+                font-family: 'Roboto', sans-serif;
+                background-color: #f0f2f5;
+                color: #333;
+                margin: 0;
+                padding: 0;
+            }}
+            .container {{
+                max-width: 1200px;
+                margin: 50px auto;
+                padding: 40px;
+                background: #ffffff;
+                border-radius: 12px;
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            }}
+            .header {{
+                text-align: center;
+                margin-bottom: 40px;
+                border-bottom: 1px solid #e0e0e0;
+                padding-bottom: 20px;
+            }}
+            h1 {{
+                font-size: 2.5rem;
+                color: #1a237e;
+                font-weight: 700;
+                margin: 0;
+            }}
+            h2 {{
+                font-size: 1.8rem;
+                color: #3f51b5;
+                margin-top: 0;
+                margin-bottom: 20px;
+                border-bottom: 2px solid #c5cae9;
+                padding-bottom: 10px;
+            }}
+            .main-content {{
+                display: flex;
+                gap: 40px;
+            }}
+            .left-column {{
+                flex: 1;
+            }}
+            .right-column {{
+                flex: 1.5;
+                display: flex;
+                flex-direction: column;
+            }}
+            .metrics-grid, .inputs-grid {{
+                display: grid;
+                gap: 20px;
+            }}
+            .metrics-grid {{
+                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+                margin-bottom: 40px;
+            }}
+            .inputs-grid {{
+                grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            }}
+            .metric-card, .input-card {{
+                background: #f8f9fa;
+                padding: 20px;
+                border-radius: 10px;
+                text-align: center;
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+                border-left: 5px solid;
+            }}
+            .metric-card:hover, .input-card:hover {{
+                transform: translateY(-5px);
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            }}
+            .metric-label, .input-label {{
+                font-size: 0.9rem;
+                color: #555;
+                margin-bottom: 10px;
+                font-weight: 400;
+            }}
+            .metric-value {{
+                font-size: 2.5rem;
+                font-weight: 700;
+            }}
+            .input-value {{
+                font-size: 1.8rem;
+                font-weight: 700;
+                color: #3f51b5;
+            }}
+            .metric-card.success {{ border-color: #4caf50; }}
+            .metric-card.warning {{ border-color: #ff9800; }}
+            .metric-card.danger {{ border-color: #f44336; }}
+            .metric-value.success {{ color: #4caf50; }}
+            .metric-value.warning {{ color: #ff9800; }}
+            .metric-value.danger {{ color: #f44336; }}
+            .input-card {{
+                border-color: #c5cae9;
+            }}
+            #chart {{
+                width: 100%;
+                border-radius: 10px;
+                overflow: hidden;
+                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            }}
+            @media (max-width: 1024px) {{
+                .main-content {{
+                    flex-direction: column;
+                }}
+                .container {{
+                    margin: 20px;
+                    padding: 20px;
+                }}
+            }}
         </style>
     </head>
     <body>
         <div class="container">
-            <h1>Counterclaim Risk Simulation Report</h1>
-            <div class="metrics-grid">
-                <div class="metric-card">
-                    <div class="metric-label">Most Likely Outcome (Median)</div>
-                    <div class="metric-value {median_color}">{metrics['median']:.1f}</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-label">Probability of Success (>50)</div>
-                    <div class="metric-value {success_prob_color}">{metrics['success_prob']:.1f}%</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-label">Pessimistic Outcome (25th %)</div>
-                    <div class="metric-value">{metrics['pessimistic']:.1f}</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-label">Optimistic Outcome (75th %)</div>
-                    <div class="metric-value">{metrics['optimistic']:.1f}</div>
-                </div>
+            <div class="header">
+                <h1>Counterclaim Risk Simulation Report</h1>
             </div>
-            <div id="chart">
-                {fig.to_html(full_html=False, include_plotlyjs='cdn')}
+            <div class="main-content">
+                <div class="left-column">
+                    <h2>Simulation Outputs</h2>
+                    <div class="metrics-grid">
+                        <div class="metric-card {median_color}">
+                            <div class="metric-label">Most Likely Outcome (Median)</div>
+                            <div class="metric-value">{metrics['median']:.1f}</div>
+                        </div>
+                        <div class="metric-card {success_prob_color}">
+                            <div class="metric-label">Probability of Success (>50)</div>
+                            <div class="metric-value">{metrics['success_prob']:.1f}%</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-label">Pessimistic Outcome (25th %)</div>
+                            <div class="metric-value">{metrics['pessimistic']:.1f}</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-label">Optimistic Outcome (75th %)</div>
+                            <div class="metric-value">{metrics['optimistic']:.1f}</div>
+                        </div>
+                    </div>
+        
+                    <h2>Key Factors</h2>
+                    <div class="inputs-grid">
+                        <div class="input-card">
+                            <div class="input-label">Tribunal Stance</div>
+                            <div class="input-value">{tribunal_stance}</div>
+                        </div>
+                        <div class="input-card">
+                            <div class="input-label">Jurisdiction Strength</div>
+                            <div class="input-value">{jurisdiction_strength}</div>
+                        </div>
+                        <div class="input-card">
+                            <div class="input-label">Causation Confidence</div>
+                            <div class="input-value">{causation_confidence}</div>
+                        </div>
+                        <div class="input-card">
+                            <div class="input-label">Evidence Quality</div>
+                            <div class="input-value">{evidence_quality}</div>
+                        </div>
+                        <div class="input-card">
+                            <div class="input-label">Precedent Strength</div>
+                            <div class="input-value">{precedent_strength}</div>
+                        </div>
+                        <div class="input-card">
+                            <div class="input-label">Damages Credibility</div>
+                            <div class="input-value">{damages_credibility}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right-column">
+                    <h2>Distribution of Potential Outcomes</h2>
+                    <div id="chart">
+                        {fig.to_html(full_html=False, include_plotlyjs='cdn')}
+                    </div>
+                </div>
             </div>
         </div>
     </body>
@@ -194,7 +332,16 @@ if __name__ == "__main__":
     
     report_chart = create_chart(simulation_results, report_metrics)
     
-    generate_html_report(report_chart, report_metrics)
+    generate_html_report(
+    report_chart,
+    report_metrics,
+    TRIBUNAL_STANCE,
+    JURISDICTION_STRENGTH,
+    CAUSATION_CONFIDENCE,
+    EVIDENCE_QUALITY,
+    PRECEDENT_STRENGTH,
+    DAMAGES_CREDIBILITY
+)
 
     print("Report 'python_report.html' generated successfully.")
     
