@@ -17,7 +17,7 @@ def make_counter_claim(user_query: str):
         case_summaries.append(case_summary(case_id=case_id, user_query=user_query))
     print("Producing report...")
     summaries_str = "\n\n".join(case_summaries)
-    prompt = f"""Produce comprehensive precise report satisfying:    
+    prompt = f"""Produce comprehensive precise report without omitting details satisfying:    
 
 1. Legal source retrieval
 Retrieve all relevant legal sources from Jus Mundi (using available API)
